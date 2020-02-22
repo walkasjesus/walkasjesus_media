@@ -1,4 +1,4 @@
-# jesus_commandments_resources
+# jesus_commandments_media
 Repository for the [Jesus Commandments Framework](https://github.com/jesuscommandments/jesus_commandments_framework) where all the resources (movies, songs, blogs, sermons, testimonies, etc) in all languages are stored in a CSV. This CSV can be imported/exported with the [Jesus Commandments Framework](https://github.com/jesuscommandments/jesus_commandments_framework) and the [Jesus Commandments Server](https://github.com/jesuscommandments/jesus_commandments_server)
 
 # Related projects and repositories
