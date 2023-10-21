@@ -1,701 +1,83 @@
-step;media_author;media_title;media_description_en;media_target_audience;media_lang;media_type;media_public;media_img_url;media_url
-1;Herman Boon;Je mag er zijn;;kids;nl;song;yes;;https://www.youtube.com/embed/tswItfYt-kU
-1;Christian Verwoerd;Kom naar huis;;adults;nl;song;yes;;https://www.youtube.com/embed/RpDxjXqdcaU
-1;Sidewalk Prophets;Live like that;;adults;en;song;yes;;https://www.youtube.com/embed/GfosSggwQS0
-1;Hillsong Worship;Mighty to Save;;adults;en;song;yes;;https://www.youtube.com/embed/GEAcs2B-kNc
-1;Superbook;Jonah;"Joy witnesses Sharon Myers stealing a bike and reports it to the principal. To Joy’s surprise, Principal Travis offers Sharon mercy instead of demanding justice.
-
-As Joy questions why Sharon shouldn’t be punished, Superbook transports her, Chris, and Gizmo to meet up with a prophet named Jonah.
-
-Jonah is running away from God because he doesn’t think the people of Nineveh deserve God’s mercy.
-
-Through Jonah’s experiences, Joy realizes that mercy is a great gift to give as well as to receive.";kids;en;superbook;yes;/media/images/superbook_jonah.png;https://www.superbook.org.uk/product/jonah/
-1;De Henkie Show;De verloren zoon;In deze video vertelt Matthijs Vlaardingerbroek van de Henkie Show samen met zijn poppen de gelijkenis van de verloren zoon.;kids;nl;henkieshow;yes;https://www.dehenkieshow.nl/aflevering/de-gelijkenis-van-de-verloren-zoon;https://www.youtube.com/embed/SuHLppnVmYQ
-1;Creation Today and Seven Fold Films;Genesis: Paradise lost;"If there is one part of the Bible that has undergone more scrutiny and abuse than any other, it is the very beginning-GENESIS. Both from within and without the church, assaults on GENESIS continue to question the Creation and ultimately the Creator. So, what exactly happened at the ""Creation,"" at the ""Beginning?""";adults;en;movie;yes;;https://player.vimeo.com/video/254067216
-1;Pure Flix;The Case for Christ;A seasoned journalist chases down the biggest story in history. Is there credible evidence that Jesus of Nazareth really is the son of God?;adults;en;movie;yes;;https://www.youtube.com/embed/rhe8KhSxWGo
-1;Superbook;How Can I Know God?;Superbook's Gospel Presentation;kids;en;shortmovie;yes;;https://www.youtube.com/embed/ag8INXQV66c
-1;ABC van het geloof;Wij geloven: bekering;;kids;nl;shortmovie;yes;;https://www.youtube.com/embed/k0nf0FA-9hQ
-1;Jenske Visser;;;any;any;drawing;yes;/media/images/1_-_Repent_and_believe_the_gospel.png;
-1;Joop Gottmers;Drugs… gefeliciteerd, jij hebt van mij gewonnen!;;adults;nl;testimony;yes;;https://www.youtube.com/embed/x4x5taZ1sxU
-1;Joel Muniz;;;any;any;picture;yes;/media/images/1_-_picture_Repent.jpg;
-1;Ben White;;;any;any;picture;yes;/media/images/1_-_picture_Repent2.jpg;
-1;Louie Giglio;From the Inside Out;;adults;en;sermon;yes;;https://www.youtube.com/embed/oDu8xPknHB8
-1;Peace With God;Shall not perish…;;adults;en;sermon;yes;;https://www.youtube.com/embed/qJTfujJO9_s
-1;Nicky Cruz;Ik zal nooit meer huilen;;adults;nl;book;yes;/media/images/1_-_book_Ik-zal-nooit-meer-huilen.jpg;
-1;Merijn Visser;Stap 1 - Bekeer je en geloof het evangelie;In deze video krijg je een samenvatting van het verhaal van de Bijbel in 10 punten en 1 levensveranderende vraag!;any;nl;wajvideo;yes;;https://www.youtube.com/embed/0hhUBICptZc
-2;Sela;Doop;;adults;nl;song;yes;;https://www.youtube.com/embed/QQ7uXdPZqy8
-2;Sidewalk Prophets;Live like that;;adults;en;song;yes;;https://www.youtube.com/embed/GfosSggwQS0
-2;Superbook;Baptized;Chris, Joy and Gizmo are surprised when Superbook takes Ellie along with them for an adventure by the Sea of Galilee. Witness a miracle as Peter goes fishing, and discover how Jesus calls all of His followers to be fishers of people!;kids;en;superbook;yes;/media/images/superbook_baptized.jpg;https://uk-en.superbook.cbn.com/episode_player?v=6149581846001
-2;De Henkie Show;Jezus wordt gedoopt in de jordaan;In deze video vertelt Matthijs Vlaardingerbroek van de Henkie Show samen met zijn poppen het Bijbelverhaal over de doop van Jezus.;kids;nl;henkieshow;yes;https://www.dehenkieshow.nl/aflevering/de-doop-van-jezus-in-de-jordaan;https://www.youtube.com/embed/UqfnIL-pLQs
-2;Jenske Visser;;;any;any;drawing;yes;/media/images/2_-_get_baptized.png;
-2;Allen Parr;Do I have to be baptized?;;adults;en;sermon;yes;;https://www.youtube.com/embed/-kYR9-eHL_I
-3;Marcel & Lydia Zimmer;Kom aan boord;;kids;nl;song;yes;;https://www.youtube.com/watch?v=OQFYQEEhbP0
-3;Keith Green;Oh, Lord You're Beautiful;;adults;en;song;yes;;https://www.youtube.com/embed/uVgPQm06g2c
-3;Michael Ketterer & Influence Music;Spirit lead me;;adults;en;song;yes;;https://www.youtube.com/embed/ABWnLjXer10
-3;oke4kids;Volg het spoor;;kids;nl;song;yes;;https://www.youtube.com/embed/BsOrfzQji3c
-3;Voices of Lee;Waymaker;;adults;en;song;yes;;https://www.youtube.com/embed/D-KgQIlvP3Q
-3;Superbook;The test;"Chris is stoked because he got a Holo9, the ultimate holographic gaming system! But Chris starts to feel a twinge of guilt when he hears that a sick boy in the hospital would like to have one. It takes Superbook’s assistance to turn Chris around after he meets Abraham and Issac.
-
-Through Abraham’s obedience to God, Chris learns that you should put God first above all else (even a Holo9), and everything else will work out.";kids;en;superbook;yes;/media/images/superbook_the-test.jpg;https://www.superbook.org.uk/product/the-test/
-3;De Henkie Show;De wonderbare visvangst;In deze video vertelt Matthijs Vlaardingerbroek van de Henkie Show samen zijn poppen het Bijbelverhaal waarin Jezus Simon de visser roept die de hele nacht niks heeft gevangen. Als Jezus hem vertelt om zijn netten aan de andere kant in het water te gooien, zitten ze vol met vis;kids;nl;henkieshow;yes;https://www.dehenkieshow.nl/aflevering/de-wonderbare-visvangst-2;https://www.youtube.com/embed/NZ7dc27exdI
-3;Wasted Spin Head;Falling Plates;;adults;en;shortmovie;yes;;https://www.youtube.com/embed/08peJK0m510
-3;Moving Works;Something more;One man's life changed the course of history for billions of people across the globe. He is both revered and reviled, famed and feared and you know who he is without a single mention of his name.;adults;en;shortmovie;yes;;https://www.youtube.com/embed/6dhlqPr4eS4
-3;Jenske Visser;;;any;any;drawing;yes;/media/images/3_-_Follow_Me.png;
-3;Moving Works;The Good Father;Yearning for the Bohemian life, Ruda turns to alcohol to escape the responsibilities of being a husband and father. Before long, his entire world falls apart, leaving him to choose between killing himself or surrendering to the person he’s rejected his entire life.;adults;any;testimony;yes;;https://www.youtube.com/embed/c9KeNGPk3Kw
-4;Opwekking Kids 70;Liefde, Blijdschap, Vrede;;kids;nl;song;yes;;https://www.youtube.com/embed/cZs25QyXEP4
-4;Superbook;Jesus feeds the hungry;;kids;en;superbook;yes;;https://www.superbook.org.uk/product/jesus-feeds-the-hungry/
-4;De Henkie Show;Pinksteren - 2. De vrucht van de Geest;In deze tweede video van een vijfdelige serie over het christelijke Pinksterfeest legt Matthijs Vlaardingerbroek van de Henkie Show samen zijn poppen uit wat de vrucht van de Geest inhoudt;kids;nl;henkieshow;yes;https://www.dehenkieshow.nl/aflevering/pinksteren-2-de-vrucht-van-de-geest;https://www.youtube.com/embed/oXihlUztyEg
-4;Jon Jorgenson;"A ""Godless"" Generation";While some groups are doing a great job reaching today's youth in a meaningful way, why are so many young people still resistant to the church? Jon Jorgenson sheds some light on this topic.;adults;en;shortmovie;yes;;https://www.youtube.com/embed/zng2piCy4RA
-4;Nick Vuijick;Motivational Minute #33 - Seeds Planted, Patience;;any;en;shortmovie;yes;;https://www.youtube.com/embed/8cbt38u8tVg
-4;max7.org;The Parable Of The Sower;This video illustrates Jesus' Parable of the Sower without the use of any language elements. It employs the latest, cutting edge animation techniques. The video clearly illustrates the 4 instances of the seeds scattered on different ground. Experience the seeds growing and the challenges they face. How will you respond to Jesus' message?;kids;any;shortmovie;yes;;https://www.youtube.com/embed/fa3y8pH0ymw
-4;Jenske Visser;;;any;any;drawing;yes;/media/images/4_-_Be_fruitfull.png;
-4;Tamas Tokos;;;any;any;picture;yes;/media/images/4_-_picture_grain.jpg;
-4;Unknown Author;Fig tree;;any;any;picture;yes;/media/images/4_-_picture_fig-tree.jpg;
-4;Unknown Author;Fig tree;;any;any;picture;yes;/media/images/4_-_picture_fig-tree2.jpg;
-5;Casting Crowns;Only Jesus;;adults;en;song;yes;;https://www.youtube.com/embed/_eQd3K2Fxp4
-5;Hillsong;There is no other name;;adults;en;song;yes;;https://www.youtube.com/embed/Wku9OphQ7JE
-5;Hillsong;What a beautiful name;;adults;en;song;yes;;https://www.youtube.com/embed/r5L6QlAH3L4
-5;Joshua Aaron;You Are Holy (As for Me and My House);;adults;en;song;yes;;https://www.youtube.com/embed/EWc7VilSOZs
-5;Superbook;The Fiery Furnace;"Chris is tested with a moral dilemma, and Joy warns him to do the right thing.
-
-Suddenly, Superbook launches them back to a time when three men are tested by fire!";kids;en;superbook;yes;/media/images/superbook_The-Fiery-Furnace.png;https://www.superbook.org.uk/product/the-fiery-furnace/
-5;De Henkie Show;Wij buigen niet voor het gouden beeld;In deze video vertelt Matthijs Vlaardingerbroek van de Henkie Show samen  zijn poppen het Bijbelverhaal van Sadrach, Mesach en Abednego die niet voor het gouden beeld van koning Nebukadnessar willen buigen en hierdoor in de vurige oven worden gegooid. Gelukkig redt God hen uit de oven!;kids;nl;henkieshow;yes;https://www.dehenkieshow.nl/aflevering/daniels-vrienden-buigen-niet-voor-het-gouden-beeld;https://www.youtube.com/embed/-HpaegSYoho
-5;Jefferson Bethke;Counterfeit Gods;"We all worship something. Whatever we give our time, money, & energy too might not be our ""verbal"" savior but it is our ""functional"" savior. The question isn't ""do"" we worship, but ""who"" do we worship. This poem is me sharing about my journey to find that only Jesus truly satisfies. Everything else over promises & under delivers.";adults;en;shortmovie;yes;;https://www.youtube.com/embed/SkZg1ZflpJs
-5;EO Beam;Denkstof - afgoden, hoe wordt ik gelukkig?;;adults;nl;shortmovie;yes;;https://youtube.com/embed/dUomVpyOkzw
-5;S.M. Lockridge;That’s my King!;;adults;en;shortmovie;yes;;https://www.youtube.com/embed/9K80pozOfrU
-5;Jenske Visser;;;any;any;drawing;yes;/media/images/5_-_golden_calf.png;
-5;Moving Works;Death, Where is Your Sting;Touch Bin lived most of her life gripped by fear, pain, and hopelessness, but when God opened her eyes to the truth of Christ, she left the path of death and began a journey toward life.;adults;en;testimony;yes;;https://www.youtube.com/embed/glKS5grZqqU
-5;Jim Staley;Truth Or Tradition;"Pastor Jim Staley teaches on Truth or Tradition. Should Christians celebrate Christmas and Easter? It sounds sacrilegious to even ask the question, doesn't it? You might be surprised to find out that God actually has an opinion when you consider the origins of these holidays...and that opinion might not be what you expect! ""Well, that's not what it means to me"", most people say. But since when does it matter what it means to us! We are not the ones being worshipped!
-
-Originally featured on God's Learning Channel, this teaching examines the most shocking historical origins of Christianity's most sacred holidays and will leave you desiring God's truth like never before! Find out where Santa Claus, the Easter Bunny, Christmas trees, and many more holiday traditions actually come from and what the Scriptures say about them. Learn what is ""truth"" and what is ""tradition."" After all...The Father is only looking for those who worship in both Spirit and Truth!";adults;en;sermon;yes;;https://www.youtube.com/embed/FqomQ4fF7s0
-5;Jim Staley;Wat is er mis met Kerst?;"Waarom vieren we kerst op 25 december? Zijn er dingen uit de geschiedenis die we misschien niet weten? Wat heeft Sinterklaas hier mee te maken? En waarom horen eieren bij Pasen?
+step,media_author,media_title,media_description_en,media_target_audience,media_lang,media_type,media_public,media_img_url,media_url
+1,Christian Verwoerd,Kom naar huis,,adults,nl,song,yes,,https://www.youtube.com/embed/RpDxjXqdcaU
+1,Sidewalk Prophets,Live like that,,adults,en,song,yes,,https://www.youtube.com/embed/GfosSggwQS0
+1,Hillsong Worship,Mighty to Save,,adults,en,song,yes,,https://www.youtube.com/embed/GEAcs2B-kNc
+1,De Henkie Show,De verloren zoon,In deze video vertelt Matthijs Vlaardingerbroek van de Henkie Show samen met zijn poppen de gelijkenis van de verloren zoon.,kids,nl,henkieshow,yes,https://www.dehenkieshow.nl/aflevering/de-gelijkenis-van-de-verloren-zoon,https://www.youtube.com/embed/SuHLppnVmYQ
+1,Pure Flix,The Case for Christ,A seasoned journalist chases down the biggest story in history. Is there credible evidence that Jesus of Nazareth really is the son of God?,adults,en,movie,yes,,https://www.youtube.com/embed/rhe8KhSxWGo
+1,Superbook,How Can I Know God?,Superbook's Gospel Presentation,kids,en,shortmovie,yes,,https://www.youtube.com/embed/ag8INXQV66c
+1,ABC van het geloof,Wij geloven: bekering,,kids,nl,shortmovie,yes,,https://www.youtube.com/embed/k0nf0FA-9hQ
+1,Jenske Visser,,,any,any,drawing,yes,/media/images/1_-_Repent_and_believe_the_gospel.png,
+1,Joop Gottmers,"Drugs… gefeliciteerd, jij hebt van mij gewonnen!",,adults,nl,testimony,yes,,https://www.youtube.com/embed/x4x5taZ1sxU
+1,Joel Muniz,,,any,any,picture,yes,/media/images/1_-_picture_Repent.jpg,
+1,Ben White,,,any,any,picture,yes,/media/images/1_-_picture_Repent2.jpg,
+1,Louie Giglio,From the Inside Out,,adults,en,sermon,yes,,https://www.youtube.com/embed/oDu8xPknHB8
+1,Peace With God,Shall not perish…,,adults,en,sermon,yes,,https://www.youtube.com/embed/qJTfujJO9_s
+1,Nicky Cruz,Ik zal nooit meer huilen,,adults,nl,book,yes,/media/images/1_-_book_Ik-zal-nooit-meer-huilen.jpg,
+1,Merijn Visser,Stap 1 - Bekeer je en geloof het evangelie,In deze video krijg je een samenvatting van het verhaal van de Bijbel in 10 punten en 1 levensveranderende vraag!,any,nl,wajvideo,yes,,https://www.youtube.com/embed/0hhUBICptZc
+2,Sela,Doop,,adults,nl,song,yes,,https://www.youtube.com/embed/QQ7uXdPZqy8
+2,Sidewalk Prophets,Live like that,,adults,en,song,yes,,https://www.youtube.com/embed/GfosSggwQS0
+2,De Henkie Show,Jezus wordt gedoopt in de jordaan,In deze video vertelt Matthijs Vlaardingerbroek van de Henkie Show samen met zijn poppen het Bijbelverhaal over de doop van Jezus.,kids,nl,henkieshow,yes,https://www.dehenkieshow.nl/aflevering/de-doop-van-jezus-in-de-jordaan,https://www.youtube.com/embed/UqfnIL-pLQs
+2,Jenske Visser,,,any,any,drawing,yes,/media/images/2_-_get_baptized.png,
+2,Allen Parr,Do I have to be baptized?,,adults,en,sermon,yes,,https://www.youtube.com/embed/-kYR9-eHL_I
+3,Keith Green,"Oh, Lord You're Beautiful",,adults,en,song,yes,,https://www.youtube.com/embed/uVgPQm06g2c
+3,Michael Ketterer & Influence Music,Spirit lead me,,adults,en,song,yes,,https://www.youtube.com/embed/ABWnLjXer10
+3,Voices of Lee,Waymaker,,adults,en,song,yes,,https://www.youtube.com/embed/D-KgQIlvP3Q
+3,De Henkie Show,De wonderbare visvangst,"In deze video vertelt Matthijs Vlaardingerbroek van de Henkie Show samen zijn poppen het Bijbelverhaal waarin Jezus Simon de visser roept die de hele nacht niks heeft gevangen. Als Jezus hem vertelt om zijn netten aan de andere kant in het water te gooien, zitten ze vol met vis",kids,nl,henkieshow,yes,https://www.dehenkieshow.nl/aflevering/de-wonderbare-visvangst-2,https://www.youtube.com/embed/NZ7dc27exdI
+3,Wasted Spin Head,Falling Plates,,adults,en,shortmovie,yes,,https://www.youtube.com/embed/08peJK0m510
+3,Moving Works,Something more,"One man's life changed the course of history for billions of people across the globe. He is both revered and reviled, famed and feared and you know who he is without a single mention of his name.",adults,en,shortmovie,yes,,https://www.youtube.com/embed/6dhlqPr4eS4
+3,Jenske Visser,,,any,any,drawing,yes,/media/images/3_-_Follow_Me.png,
+3,Moving Works,The Good Father,"Yearning for the Bohemian life, Ruda turns to alcohol to escape the responsibilities of being a husband and father. Before long, his entire world falls apart, leaving him to choose between killing himself or surrendering to the person he’s rejected his entire life.",adults,any,testimony,yes,,https://www.youtube.com/embed/c9KeNGPk3Kw
+4,De Henkie Show,Pinksteren - 2. De vrucht van de Geest,In deze tweede video van een vijfdelige serie over het christelijke Pinksterfeest legt Matthijs Vlaardingerbroek van de Henkie Show samen zijn poppen uit wat de vrucht van de Geest inhoudt,kids,nl,henkieshow,yes,https://www.dehenkieshow.nl/aflevering/pinksteren-2-de-vrucht-van-de-geest,https://www.youtube.com/embed/oXihlUztyEg
+4,Jon Jorgenson,"A ""Godless"" Generation","While some groups are doing a great job reaching today's youth in a meaningful way, why are so many young people still resistant to the church? Jon Jorgenson sheds some light on this topic.",adults,en,shortmovie,yes,,https://www.youtube.com/embed/zng2piCy4RA
+4,Nick Vuijick,"Motivational Minute #33 - Seeds Planted, Patience",,any,en,shortmovie,yes,,https://www.youtube.com/embed/8cbt38u8tVg
+4,Jenske Visser,,,any,any,drawing,yes,/media/images/4_-_Be_fruitfull.png,
+4,Tamas Tokos,,,any,any,picture,yes,/media/images/4_-_picture_grain.jpg,
+4,Unknown Author,Fig tree,,any,any,picture,yes,/media/images/4_-_picture_fig-tree.jpg,
+4,Unknown Author,Fig tree,,any,any,picture,yes,/media/images/4_-_picture_fig-tree2.jpg,
+5,Casting Crowns,Only Jesus,,adults,en,song,yes,,https://www.youtube.com/embed/_eQd3K2Fxp4
+5,Hillsong,There is no other name,,adults,en,song,yes,,https://www.youtube.com/embed/Wku9OphQ7JE
+5,Hillsong,What a beautiful name,,adults,en,song,yes,,https://www.youtube.com/embed/r5L6QlAH3L4
+5,Joshua Aaron,You Are Holy (As for Me and My House),,adults,en,song,yes,,https://www.youtube.com/embed/EWc7VilSOZs
+5,De Henkie Show,Wij buigen niet voor het gouden beeld,"In deze video vertelt Matthijs Vlaardingerbroek van de Henkie Show samen  zijn poppen het Bijbelverhaal van Sadrach, Mesach en Abednego die niet voor het gouden beeld van koning Nebukadnessar willen buigen en hierdoor in de vurige oven worden gegooid. Gelukkig redt God hen uit de oven!",kids,nl,henkieshow,yes,https://www.dehenkieshow.nl/aflevering/daniels-vrienden-buigen-niet-voor-het-gouden-beeld,https://www.youtube.com/embed/-HpaegSYoho
+5,Jefferson Bethke,Counterfeit Gods,"We all worship something. Whatever we give our time, money, & energy too might not be our ""verbal"" savior but it is our ""functional"" savior. The question isn't ""do"" we worship, but ""who"" do we worship. This poem is me sharing about my journey to find that only Jesus truly satisfies. Everything else over promises & under delivers.",adults,en,shortmovie,yes,,https://www.youtube.com/embed/SkZg1ZflpJs
+5,EO Beam,"Denkstof - afgoden, hoe wordt ik gelukkig?",,adults,nl,shortmovie,yes,,https://youtube.com/embed/dUomVpyOkzw
+5,S.M. Lockridge,That’s my King!,,adults,en,shortmovie,yes,,https://www.youtube.com/embed/9K80pozOfrU
+5,Jenske Visser,,,any,any,drawing,yes,/media/images/5_-_golden_calf.png,
+5,Moving Works,"Death, Where is Your Sting","Touch Bin lived most of her life gripped by fear, pain, and hopelessness, but when God opened her eyes to the truth of Christ, she left the path of death and began a journey toward life.",adults,en,testimony,yes,,https://www.youtube.com/embed/glKS5grZqqU
+5,Jim Staley,Wat is er mis met Kerst?,"Waarom vieren we kerst op 25 december? Zijn er dingen uit de geschiedenis die we misschien niet weten? Wat heeft Sinterklaas hier mee te maken? En waarom horen eieren bij Pasen?
 
 De indrukwekkende film Truth or Tradition van Jim Staley is door Weg uit Babylon vertaald in het Nederlands. Wij hebben een verkorte versie van de film (46 minuten) gemaakt en op Youtube geplaatst. De film is schokkend, maar de moeite van het kijken waard!
 
-Onderzoek de dingen die u in deze film tegenkomt, breng ze in gebed, en attendeer ook anderen hierop! Geve God dat dit velen mag reinigen van onbewuste of bewuste afgoderij.";adults;nl;sermon;yes;;https://www.youtube.com/embed/h2oTIK5Nou4
-6;Robin Mark;Days of Elijah;;adults;en;song;yes;;https://www.youtube.com/embed/ca9LnzJnpjQ
-6;Kari Jobe;Heal Our Land;;adults;en;song;yes;;https://www.youtube.com/embed/DyzbpBR1KOI
-6;Superbook;Paul and Barnabas;;kids;en;superbook;yes;;https://www.superbook.org.uk/product/paul-and-barnabas/
-6;Jenske Visser;;;any;any;drawing;yes;/media/images/6_-_pray_for_laborers.png;
-6;Voice of the Martyrs;Hoe de Noord-Koreaanse Sang Chul God leert kennen;;adults;nl;testimony;yes;;https://www.youtube.com/embed/uzUywmuPIUk
-6;Voice of the Martyrs;Sang-chul: North Korea;;adults;en;testimony;yes;;https://www.youtube.com/embed/oGqEgxkF7I8
-6;Ben White;;;any;any;picture;yes;/media/images/6_-_ben-white-unsplash.jpg;
-7;Jenske Visser;;;any;any;drawing;yes;/media/images/7_-_Take_A_Day_Off.png;
-7;119 Ministries Nederland;Hebreeën 4 - In Zijn rust nu of later?;Er wordt vaak gezegd dat we nu al in de rust zijn van onze Messias. Er is een doctrine ter ondersteuning van de theorie dat we niet meer letterlijk hoeven te rusten op de Sabbat. Weet je waar de onderbouwing van deze doctrine gevonden kan worden? Heb je deze doctrine ooit getoetst? Je zult verbaasd zijn als je leert wanneer we daadwerkelijk die rust binnengaan.;adults;nl;sermon;yes;;https://www.youtube.com/embed/ZYRRHPeV4Dw
-7;119 Ministries;The Sabbath Day;We've all been told that the Sabbath is now on Sunday. But how many of us have truly tested that? Have we truly examined the basis of this belief? Or have we just blindly accepted what we have been taught over the years based on the interpretations of man's views of the scriptures that have been passed down through the generations? We at 119 Ministries present this examination of the scriptures regarding the one day that was given as a sign and covenant for those who choose to follow our Heavenly Father.;adults;en;sermon;yes;;https://www.youtube.com/embed/YP2fw1Y3QVo
-8;Casting Crowns;Nobody;;adults;en;song;yes;;https://www.youtube.com/embed/1yBzIt_z8oY
-8;Zach Williams;Rescue story;;adults;en;song;yes;;https://www.youtube.com/embed/9Yr48Berkqc
-8;Rend Collective;Rescuer;;adults;en;song;yes;;https://www.youtube.com/embed/sAg7rn7fH3Q
-8;Make Some Noise Kids;Wereldplan;;kids;nl;song;yes;;https://www.youtube.com/embed/ipCt-Zf-M3U
-8;Superbook;Paul and the Unknown God, Part 1;“Chris is impressed by his father’s new invention. Chris covets the device and wants to use its power to impress his friends and earn lots of money. Superbook whisks the kids away to Samaria. There they watch Philip, Peter and John teach a magician and his followers about the true power of the Holy Spirit. Later, they find Philip in the desert and witness the baptism of the Ethiopian Eunuch. Upon returning home, Chris is a changed person. He has been awed by the power of the Holy Spirit and begins his path towards baptism.”;kids;en;superbook;yes;/media/images/superbook_paul_and_the_unknown_God_part1.jpg;https://uk-en.superbook.cbn.com/episode_player?v=6211335485001
-8;Superbook;Paul and the Unknown God, Part 2;Superbook takes Chris, Joy and Gizmo to meet Paul as he travels from Athens to Corinth. Discover how God reveals Himself through creation in the finale of this two-part adventure. The children learn how to share how they know that God is real!;kids;en;superbook;yes;/media/images/superbook_paul_and_the_unknown_God_part2.jpg;https://uk-en.superbook.cbn.com/episode_player?v=6211334480001
-8;De Henkie Show;Pinksteren - 3. Iedereen moet het horen;In deze derde video van een vijfdelige serie over het christelijke Pinksterfeest legt Matthijs Vlaardingerbroek van de Henkie Show samen zijn poppen uit hoe de Heilige Geest de gelovigen moed en kracht geeft om iedereen het goede nieuws te gaan vertellen.;kids;nl;henkieshow;yes;;https://www.youtube.com/embed/VxwPt6WFuWE
-8;The Bible Project;Acts Ch. 21-28;In the final video in our Acts series, we trace Paul’s final journey to Jerusalem and then into a Roman prison. But paradoxically, Paul’s suffering leads him into the heart of the Roman empire where he gets to announce God’s Kingdom over the nations.;adults;en;shortmovie;yes;;https://www.youtube.com/embed/FJsiwOB0Pvg
-8;What's in the Bible?;Acts of the Apostles: Paul's Journey;;kids;en;shortmovie;yes;;https://www.youtube.com/embed/Hy4K1pP408Y
-8;Moving Works;Tell the world about Jesus;;adults;en;shortmovie;yes;;https://player.vimeo.com/video/263398045?dnt=1&app_id=122963
-8;Jenske Visser;;;any;any;drawing;yes;/media/images/8_-_preach_the_gospel.png;
-8;Moving Works;Disciples - From Witchcraft to Jesus in Rio de Janeiro;Anderson and Robson came to know the love and grace of Jesus in the midst of poverty, abuse, and sin. Now transformed, they’ve become beacons of that same love and grace in one of the most notorious favelas in Rio de Janeiro, The City of God.;adults;br;testimony;yes;;https://www.youtube.com/embed/WhV41z61yrM
-8;Nick Vujicic;God's Miraculous Plan | Life Without Limbs;"""Why God, was I born this way?""  That's the question Nick Vujicic wondered after being born without limbs.  Nick discovered God's miraculous plan for his life as a worldwide evangelist sharing the message of redemption through Jesus Christ.  Watch and discover how you can be a part of Nick's goal to preach to every single soul on the planet: 7 billion people!";adults;en;testimony;yes;;https://www.youtube.com/embed/SYuVx2LU5QM
-8;Moving Works;Then God Changed Everything;In 2001, Gary and Peggy Ifft lived in Bloomington, IL. They had normal jobs, a normal home, a normal life. Then God called them out of the normal and into His mission.;adults;en;testimony;yes;;https://www.youtube.com/embed/WbPuoUlYHCs
-8;GP;;;any;any;picture;yes;/media/images/8_-_feets_of_messangers_rom10-15.jpg;
-9;David de Haan;Broken pots;;adults;en;song;yes;;https://www.youtube.com/embed/m53sThbtqqo
-9;Sanctus Real;Confidence;;adults;en;song;yes;;https://www.youtube.com/embed/DuZPOVFcFJ4
-9;Selah;Yet Not I, But Through Christ In Me;;adults;en;song;yes;;https://www.youtube.com/embed/rNXd0KQaYXg
-9;Selah;You are my hiding place;;adults;en;song;yes;;https://www.youtube.com/embed/uUx2WcC9JKo
-9;Elly en Rikkert;Zet je voet maar op het water;;kids;nl;song;yes;;https://www.youtube.com/embed/curSKP3VIJk
-9;Superbook;King Solomon;Travel back to ancient Israel as Superbook takes Chris, Joy and Gizmo to meet King Solomon. Witness the suspense as he is faced with a baffling dilemma—and the surprising way he uncovers the truth. Our heroes discover that true wisdom comes from God.;kids;en;superbook;yes;/media/images/superbook_King-Solomon.jpg;https://www.superbook.org.uk/product/362/
-9;De Henkie Show;Jezus wandelt op het water;In deze video vertelt Matthijs Vlaardingerbroek van de Henkie Show samen met Carla Vis en zijn poppen het Bijbelverhaal over hoe Jezus op het water wandelt.;kids;nl;henkieshow;yes;;https://www.youtube.com/embed/F_Z11s0ZfSU
-9;Evangelische omroep;Het Bijbel Project | De Heilige Geest;"The ""Holy Spirit"" is a term in the Bible that is used to describe the mystery and power of God's presence. In this video, we look at the original Hebrew meaning of the word ""spirit / breath,"" and how this can help you view the storyline of the entire Bible in a new way.";any;nl;shortmovie;yes;;https://www.youtube.com/embed/dQkpzkoATo4
-9;Nick Vujicic;Motivational Minute #30 - Broken Pieces;;any;en;shortmovie;yes;;https://www.youtube.com/embed/-BFC9NhIjGE
-9;Jenske Visser;;;any;any;drawing;yes;/media/images/9_-_Blessed_are_the_poor_in_spirit.png;
-10;Alisa Turner;My Prayer for You;;adults;en;song;yes;;https://www.youtube.com/embed/hj_0pvIGkks
-10;Lionsgate;I Still Believe;This movie is about the true life story of Christian music mega star Jeremy Camp. Jeremy’s remarkable journey of love and loss proves there is always hope in the midst of tragedy and that faith tested is the only faith worth sharing.;adults;en;movie;yes;;https://www.youtube.com/embed/YnxHyBbYwQQ
-10;Jenske Visser;;;any;any;drawing;yes;/media/images/10_-_Blessed_are_those_who_mourn.png;
-10;Moving Works;Darcy - A Trisomy 18 Story of Faith and Hope;Jason and Tracy were ecstatic to find out that they were expecting, but when the couple is told that their daughter is “incompatible with life”, they begin a journey that will forever change how they view God’s love.;adults;en;testimony;yes;;https://www.youtube.com/embed/sz9mNtpZFMM
-10;Janette Henning;Melissa, If One Life...;"Melissa, If One Life ... is the real-life love story of Melissa Camp, first wife of recording artist Jeremy Camp. Her heartrending story is told through her journals and reveals her intimate conversations with God, her extraordinary love story with Jeremy, her walk-through cancer and her supernatural responses to life's hardest trials. The film, I Still Believe, is based on Melissa's fun and emotional love story with Jeremy Camp. It is more than inspiring! It is transformational! It restores faith that great love does exist and is worth sacrificing everything for. 
-
-This book expands the dialog, shows Melissa's reactions and fills in the details of her remarkable life. It also reveals the mystery of living a courageous life filled with love, joy and hope no matter what the circumstances are.";adults;en;book;yes;/media/images/10_melissa-if-one-life.png;http://www.ifonelifebook.com/
-11;Sons of Korah;Psalm 131;;adults;en;song;yes;;https://youtube.com/embed/xBkk9gxDet0
-11;Navigators Studentenvereniging Tilburg;Vrucht in Vogelvlucht – Zachtmoedigheid;;any;nl;shortmovie;yes;;https://www.youtube.com/embed/pV8JpASk9S8
-11;Jenske Visser;;;any;any;drawing;yes;/media/images/11_-_Blessed_are_the_meek.png;
-12;Christian Verwoerd;Als iemand dorst heeft;;any;nl;song;yes;;https://www.youtube.com/embed/PPa33jKITO4
-12;MerceMe;Flawless;;adults;en;song;yes;;https://www.youtube.com/embed/wjLlLPZderk
-12;Opwekking Kids;Lees je Bijbel bid elke dag;;kids;nl;song;yes;;https://www.youtube.com/watch?v=EgMZPiQnJCY
-12;Tori Kelly;Psalm 42;;adults;en;song;yes;;https://www.youtube.com/embed/wGgsmCEgf4w
-12;Selah;Wonderful Merciful Savior;;adults;en;song;yes;;https://www.youtube.com/embed/fK6sYVQCqhs
-12;ABC van het geloof;Wij belijden: zonde;;kids;nl;shortmovie;yes;;https://www.youtube.com/embed/SdOaSNEEZNU
-12;Jenske Visser;;;any;any;drawing;yes;/media/images/12_-_Blessed_are_those_who_hunger_and_thirst_for_righteousness.png;
-13;Casting Crowns;Jesus, friend of sinners;;adults;en;song;yes;;https://www.youtube.com/embed/g3W7wmWJIaQ
-13;Newsboys;That’s how you change the world;;adults;en;song;yes;;https://www.youtube.com/embed/WtkTXBTTcAw
-13;Elise Mannah;Zal ik het anders even voor je doen;;kids;nl;song;yes;;https://www.youtube.com/embed/JgslVxxlroY
-13;Superbook;The Good Samaritan;"Joy is so hungry that she’s reluctant to share a pizza with some needy children. That’s when Superbook takes Chris, Joy and Gizmo to meet Jesus, who tells the parable of the Good Samaritan. Witness how a wounded man is ignored by his countrymen as they pass by, but rescued by a foreigner who stops to help him in his time of need.
-
-Gather your family and get ready for an exciting journey as our heroes discover the importance of caring for others—and that all people are our neighbors. It’s all here for you in Superbook: “The Good Samaritan.”";kids;en;superbook;yes;/media/images/superbook_the-good-samaritan.jpg;http://uk-en.superbook.cbn.com/content/good-samaritan
-13;De Henkie Show;De Barmhartige Samaritaan;In deze video vertelt Matthijs Vlaardingerbroek van de Henkie Show samen met Carla Vis en zijn poppen de gelijkenis van de Barmhartige Samaritaan.;kids;nl;henkieshow;yes;;https://www.youtube.com/embed/FltyJK-mQuQ
-13;ABC van het geloof;Wij belijden: Barmhartigheid;;kids;nl;shortmovie;yes;;https://www.youtube.com/embed/0_ji42qLHvE
-13;Jenske Visser;;;any;any;drawing;yes;/media/images/13_-_Blessed_are_the_merciful.png;
-14;Dara Maclean;Blameless;;adults;en;song;yes;;https://www.youtube.com/embed/g1BB6Uq6PGk
-14;Acappella;Create in me;;adults;en;song;yes;;https://www.youtube.com/embed/noUeQQ64Q1I
-14;Keith Green;Create in me a clean heart;;any;en;song;yes;;https://www.youtube.com/embed/mD2PJ0xbAdY
-14;Keith Green;Create in me a clean heart;;adults;en;song;yes;;https://www.youtube.com/embed/mD2PJ0xbAdY
-14;The Psalm Project;Witter dan sneeuw (psalm 51);;adults;nl;song;yes;;https://www.youtube.com/embed/vph6EqZe42k
-14;Superbook;In the beginning;"When Chris disobeys his father by sneaking into the Quantum lab to look at the Professor’s latest invention, he has an accident that almost destroys the top secret work-in-progress.
-
-Chris is mortified and doesn’t know what he’ll say to his father.
-
-Superbook intervenes and takes our three heroes on a journey to witness Lucifer’s fall and transformation into Satan during a blistering heavenly battle.";kids;en;superbook;yes;/media/images/superbook_in-the-beginning.jpg;https://www.superbook.org.uk/product/in-the-beginning/
-14;De Henkie Show;Jezus ontmoet Zacheüs de tollenaar;In deze video vertelt Matthijs Vlaardingerbroek van de Henkie Show samen  zijn poppen het Bijbelverhaal waarin Jezus de tollenaar Zacheüs in de boom ziet zitten. Hij roept hem naar beneden te komen en nodigt zichzelf uit in zijn huis. En Zacheüs verandert. Hij wordt puur van hart!;kids;nl;henkieshow;yes;;https://www.youtube.com/embed/nVToWv_CKLQ
-14;Evangelische omroep;Het Bijbel Project | Heiligheid;In this video we explore the paradox that God’s holiness presents to human beings. God is the unique and set-apart Creator of all reality and the author of all goodness. However, that goodness can become dangerous to humans who are mortal and morally corrupt. Ultimately, this paradox is resolved by Jesus, who embodies God’s holiness that comes to heal His creation.;any;nl;shortmovie;yes;;https://www.youtube.com/embed/LhgBw7NNh4A
-14;The Bible Project;Holiness;In this video we explore the paradox that God’s holiness presents to human beings. God is the unique and set-apart Creator of all reality and the author of all goodness. However, that goodness can become dangerous to humans who are mortal and morally corrupt. Ultimately, this paradox is resolved by Jesus, who embodies God’s holiness that comes to heal His creation.;any;en;shortmovie;yes;;https://www.youtube.com/embed/l9vn5UvsHvM
-14;Jenske Visser;;;any;any;drawing;yes;/media/images/14_-_Blessed_are_the_pure_in_heart.png;
-15;Joshua Aaron;Immanuel;;adults;en;song;yes;;https://www.youtube.com/embed/Dl5iPXltMH4
-15;Jenske Visser;;;any;any;drawing;yes;/media/images/15_-_Blessed_Are_The_Peacemakers.png;
-15;Priscilla Du Preez;;;any;any;picture;yes;/media/images/15_-_priscilla-du-preez-unsplash.jpg;
-16;Jeremy Camp;My Defender;;adults;en;song;yes;;https://www.youtube.com/embed/Ue_xEDOy7E4
-16;Casting Crowns;Praise you in the storm;;adults;en;song;yes;;https://www.youtube.com/embed/DoqbKyeKOBI
-16;Lauren Daigle;Remember;;adults;en;song;yes;;https://www.youtube.com/embed/B9TE8D5Vs8k
-16;Superbook;Job;During the worst week of his life, Chris loses his grandpa. He feels as if he cannot go on. He wants to give up on doing what is right. Suddenly, Superbook sends Chris, Joy, and Gizmo to a time when Job is tested by Satan.;kids;en;superbook;yes;/media/images/superbook_job.jpg;https://www.superbook.org.uk/product/job/
-16;De Fakkeldragers;Richard Wurmbrand;"Als in Roemenië de communisten aan de macht komen, kunnen kerken alleen bescherming krijgen door trouw te zijn aan dit systeem Ds. Richard Wurmbrand kiest voor Christus, waardoor hij zijn eigen leven en dat van zijn gezin in groot gevaar brengt. Als Richard door die keuze in de gevangenis belandt, wordt zijn geloof op de proef gesteld. Dit waargebeurde verhaal heeft nog steeds betekenis voor de wereld van vandaag.
-
-Deze film is uitgekomen bij De Fakkeldragers en is in het Engels gesproken en Nederlands ondertiteld. Kijkwijzer 8-12 jaar.";kids;nl;movie;yes;;https://www.sdok.nl/kinderfilm
-16;Voice of the Martyrs;Tortured for Christ;"The Voice of the Martyrs presents the inspiring new movie Tortured for Christ, a cinematic retelling of the testimony of VOM founder Pastor Richard Wurmbrand as written in his international bestseller Tortured for Christ. This movie was produced to honor the 50th anniversary of the book’s 1967 release.
-
-Filmed entirely in Romania, including in the very prison where Pastor Wurmbrand endured torture and solitary confinement, this powerful film uniquely presents the story with live action rather than interviews. The dialogue is presented in English, Romanian and Russian (with English subtitles) to hold to the authenticity of this true story.
-
-This movie has been released on DVD and can be purchased at www.TorturedforChrist.com.";adults;en;movie;yes;;https://www.youtube.com/embed/IIeKSrVdET0
-16;Voice of the Martyrs;Tortured for Christ;"De Roemeense predikant Richard Wurmbrand wordt op 29 februari 1948 door de geheime politie van straat geplukt. Zijn christelijke activiteiten zijn een doorn in het oog van het communistische regime. Hij zit veertien jaar in de gevangenis, waar hij vreselijk gemarteld en vernederd wordt. Ook zijn vrouw Sabina wordt gearresteerd. Ze overleeft ternauwernood jarenlange dwangarbeid in een werkkamp. 
-In het onvoorstelbare lijden dat Richard en Sabina meemaken, blijven ze vertrouwen op God. Waar hun ondervragen proberen hun geloof uit hen te slaan, wordt het alleen maar sterker.
-Nooit geven ze de hoop op - en nooit stoppen ze met spreken over Jezus, met medegevangenen én bewakers.
-
-Voor het eerst is het indrukwekkende verhaal van de Wurmbrands verfilmd. TORTURED FOR CHRIST is aangrijpend, verbazingwekkend en inspirerend. Richard en Sabina nemen je mee naar de donkerste gevangeniscellen, waar je ziet hoe het licht van Christus schijnt door mensen die zich volledig aan Hem toegewijd hebben.
-Richard Wurmbrand was grondlegger van het werk van SDOK in Nederland, dat in 1966 begon. www.sdok.nl 
-
-Bekijk de trailer van Tortured for Christ.
-
-Let op: Sommige beelden kunnen als schokkend worden ervaren";adults;nl;movie;yes;;https://www.youtube.com/embed/ws541Sd7WxI
-16;Moving Works;Be Still - Peace in the Midst of Chaos;Though the world is by plagued by suffering due to the realities of sin, death, and evil, God is calling us to seek refuge in the only place it can truly be found...His presence. A symbolic adaptation of Psalm 46.;adults;en;shortmovie;yes;;https://www.youtube.com/embed/7Kd3PrqL1Ec
-16;Open Doors;Open Doors: dit is wie wij zijn;"Open Doors steunt vervolgde christenen wereldwijd in meer dan 60 landen. Dit doen wij door Bijbels en christelijke boeken te verspreiden, trainingen aan te bieden en praktische hulp te geven.
-
-In bedreigde en onstabiele gebieden bereiden we christenen voor op mogelijke vervolging en lijden. Christenen in de vrije wereld lichten we voor over christenvervolging. Zodat ze met vervolgde christenen meevoelen en hen actief helpen.
-
-Dit doen we omdat we geloven dat wanneer één lid lijdt, alle andere meelijden (1 Kor.12:26). Ook geloven we in Jezus’ opdracht om alle volken tot Zijn leerlingen te maken (Matt. 28:19). En we geloven dat alle deuren openstaan voor het evangelie.";any;nl;shortmovie;yes;;https://www.youtube.com/embed/jwy9RPnNRgc
-16;SDOK;Stefs klas leert een lesje…;Het gaat niet lekker met Stef: hij wordt gepest door zijn klasgenoten. Als hij dan ook nog een spreekbeurt moet houden, gebeurt er van alles. Ben je benieuwd hoe het afloopt? Bekijk deze aflevering!;kids;nl;shortmovie;yes;;https://vimeo.com/206251442
-16;Jenske Visser;;;any;any;drawing;yes;/media/images/16_-_blessed_are_the_pursecuted.png;
-16;Open Doors;'Gelukkig zijn zij die vervolgd worden' - Het verhaal van Fatima;Wat mag geloof je kosten? Bekijk het aangrijpende filmpje over Fatima uit Saoedi Arabië die met gevaar voor eigen leven, blogde over haar geloof in Jezus Christus.;adults;nl;testimony;yes;;https://www.youtube.com/embed/m1C-KlD6X5E
-16;Meredith Hodge;What Corrie ten Boom Taught Me about Suffering;;adults;en;blog;yes;;https://unlockingthebible.org/2019/02/what-corrie-ten-boom-taught-me-about-suffering/
-16;Corrie ten Boom;The Hiding Place;;adults;en;book;yes;/media/images/16_-_The_hiding_place.jpg;
-17;Make Some Noise Kids;Allerleukste Liedje;;kids;nl;song;yes;;https://www.youtube.com/embed/epOQAdjJIko
-17;Micah Tyler;Amen;;adults;en;song;yes;;https://www.youtube.com/embed/4ADR6sfpeQA
-17;Point Of Grace;How You Live;;adults;en;song;yes;;https://www.youtube.com/embed/_qQm8283qsg
-17;MerceMe;I can only imagine;;adults;en;song;yes;/media/images/superbook_Paul-and-Silas.png;https://www.youtube.com/embed/0xwzItqYmII
-17;Superbook;Paul and Silas;Joy is down in the dumps because she’s due to have a her tonsils out. Superbook whisks the kids away to Philippi, where they encounter Paul and Silas preaching and being arrested for casting out a demon. Joy watches Paul’s behavior as he and Silas sing praises to God in prison! Paul and Silas are miraculously freed from prison by an earthquake, then share the Gospel with the jailer and his family. They believe and are baptized as believers in Jesus! Joy returns home and vows to try and be joyful even in the most dire circumstances, like Paul and Silas!;kids;en;superbook;yes;/media/images/superbook_Paul-and-Silas.png;https://www.superbook.org.uk/product/paul-and-silas/
-17;Jenske Visser;;;any;any;drawing;yes;/media/images/17_-_Rejoice_for_a_great_reward_is_coming.png;
-17;John Piper;Jesus and the journey to joy;A six part study with John Piper;adults;en;blog;yes;;https://www.desiringgod.org/series/jesus-and-the-journey-to-joy/articles
-17;John Piper;;;adults;nl;sermon;yes;;https://www.youtube.com/embed/R66Ruzgw-qo
-18;Matthew West;Do Something;;adults;en;song;yes;;https://www.youtube.com/embed/b_RjndG0IX8
-18;Heartcry of David;Habitation;;adults;en;song;yes;;https://www.youtube.com/embed/MAit5iaHcuY
-18;Superbook;Esther – For Such a Time as This;"At school, Joy has to choose between standing up for Bonnie or going with the crowd.
-
-Suddenly, Superbook sends Joy, Chris, and Gizmo to a time when Queen Esther chooses to stand up for the Israelite people.
-
-This encourages Joy when she faces Janice and the Girls’ Leadership Club.";kids;en;superbook;yes;/media/images/superbook_esther.png;https://www.superbook.org.uk/product/esther/
-18;Moving Works;We Are the Salt;This two minute short reveals the great need to reach people who have no access to the Gospel and how God's Spirit has been moving to reach the unengaged of Mali.;adults;en;shortmovie;yes;;https://www.youtube.com/embed/FZtJ8OWs2EA
-18;Jenske Visser;;;any;any;drawing;yes;/media/images/18_-_Be_Salty.png;
-18;Ben White;;;any;any;picture;yes;/media/images/18_-_salty_ben-white-unsplash.jpg;
-18;Greg Koukl;How To Share Your Faith;Expert on defending your faith, Greg Koukl, talks about an unexpected approach to sharing what you believe. You’ll learn how to modify your goal for conversations to communicate more effectively with others. No matter how little you may know about Christianity, or how aggressive, articulate, or intelligent the other person may be, Greg gives you a game plan that will allow you to converse with confidence in any situation. By using his “Columbo tactic,” you’ll discover how asking carefully selected questions will draw people out and cause them to rethink their beliefs.;adults;en;sermon;yes;;https://www.youtube.com/embed/p3w0CWz5JOg
-19;Rend Collective;Burn Like a Star;;adults;en;song;yes;;https://www.youtube.com/embed/VX8IuCQV5xk
-19;Opwekking 807;God van Licht;;kids;nl;song;yes;;https://www.youtube.com/embed/Md1VKIfHnMc
-19;Opwekking Kids 70;Liefde, Blijdschap, Vrede;;kids;nl;song;yes;;https://www.youtube.com/embed/cZs25QyXEP4
-19;Rend Collective;My Lighthouse;;adults;en;song;yes;;https://www.youtube.com/embed/reAlJKv7ptU
-19;Mario Raadwijk feat. Michael Koeleveld;Schitterend;;any;nl;song;yes;;https://www.youtube.com/embed/x2-9VWfWjLE
-19;Superbook;Solomon’s Temple;Chris is excited that his team will compete in a championship using the robot he designed—until he’s told not to go!;kids;en;superbook;yes;/media/images/superbook_solomons-temple.jpg;https://uk-en.superbook.cbn.com/episode_player?v=6144432595001
-19;Pureflix;God's Not Dead 3;"Contemporary freshman and devout Christian, Josh Wheaton, finds his faith challenged on the first day of philosophy by the dogmatic and argumentative professor Radisson. Radisson starts his lecture by informing the students that they must deny, in writing, that God exists, or otherwise expect an insufficient grade. While most students write the words ""God is dead"" on a paper, Josh faces a decision. He must choose between his faith and his future.";adults;en;movie;yes;;https://www.youtube.com/embed/wIKExeMVksk
-19;Jenske Visser;;;any;any;drawing;yes;/media/images/19_-_Let_Your_Light_Shine.png;
-19;Moving Works;Wherever Whatever However - Jesus loves Rio de Janeiro;While searching for direction during a sabbatical with his wife, Jay wrote three letters in the sand: WWH. God responded by sending them to one of the most dynamic cities in the world, Rio de Janeiro.;adults;en;testimony;yes;;https://www.youtube.com/embed/RowV9oTVYaM
-20;Oke4Kids;Houd je aan de regels;;kids;nl;song;yes;;https://www.youtube.com/embed/OiYLjrUGG_E
-20;Sons of Korah;Psalm 1;;adults;en;song;yes;;https://www.youtube.com/embed/TYhQATf8HDw
-20;Simon Khorolskiy;Всему свое время;;adults;ru;song;yes;;https://www.youtube.com/embed/w58TChCLnoI
-20;Superbook;The 10 commandments;"The Quantum family along with Joy and Gizmo are enjoying a family camp out when Chris secretly decides it’ll be more adventurous to ignore the rules laid down by his parents and the park ranger.
-
-His flagrant disregard causes Superbook to send our dynamic trio on a trip back in time so they can learn that rules are in place to protect you — not to make your life no fun!";kids;en;superbook;yes;/media/images/superbook_the-10-commandments.jpg;https://www.superbook.org.uk/product/the-ten-commandments/
-20;The Bible Project;De wet;In this video we investigate the meaning of the old laws in the Old Testament. Why are they in the Bible, and what do they have to say for followers of Jesus? We look at how they fulfilled a certain purpose in a crucial phase of the biblical story. And how this leads to Jesus, who fulfilled the law and summarized it in the call to love God, and your neighbor as yourself.;adults;nl;shortmovie;yes;;https://www.youtube.com/embed/T2Cla66B-yE
-20;The Bible Project;The Law;Have you ever wondered why there are so many ancient biblical laws in the first books of the Bible? What are modern readers supposed to do with them, and why are some of them so odd? In this video, we explore why the laws were given to ancient Israel and how they fit into the overall storyline of the Bible.;adults;en;shortmovie;yes;;https://www.youtube.com/embed/Sew1kBIe-W0
-20;Jenske Visser;;;any;any;drawing;yes;/media/images/20_-_teach_and_do_the_commandments.png;
-20;John Piper;You Cannot Obey God Without God;Knowing how weak and sinful we are, how do we set about obeying the hundreds of commands in the Bible? We know we cannot obey in our strength, and yet the Bible expects us to obey. In ten minutes, John Piper explores what it means to be born again, and how it happens to someone. This is part 1 of the 6 part series titled, What Jesus Demands of the World.;adults;en;blog;yes;;https://www.desiringgod.org/messages/you-cannot-obey-god-without-god
-20;John Piper;You Cannot Obey God Without God;Knowing how weak and sinful we are, how do we set about obeying the hundreds of commands in the Bible? We know we cannot obey in our strength, and yet the Bible expects us to obey. In ten minutes, John Piper explores what it means to be born again, and how it happens to someone. This is part 1 of the 6 part series titled, What Jesus Demands of the World.;adults;en;sermon;yes;;https://www.youtube.com/embed/mqlCjq60ogg
-21;Matthew West;Forgiveness;;any;en;song;yes;;https://www.youtube.com/embed/h1Lu5udXEZI
-21;Meester Richard;Sorry Zeggen;;kids;nl;song;yes;;https://www.youtube.com/embed/0qR9RjcEj2s
-21;Superbook;He is Risen!;"Chris is arguing with his mom, Phoebe.
-
-Superbook intervenes and, in a very special episode, takes Chris, Joy, Gizmo, AND Phoebe back in time for an encounter with Jesus’ mother Mary during the time of her son’s crucifixion.
-
-When Superbook returns the family home, a wiser Chris apologizes for their argument, and their relationship is restored";kids;en;superbook;yes;/media/images/superbook_He-is-risen.jpg;https://www.superbook.org.uk/product/he-is-risen/
-21;Jenske Visser;;;any;any;drawing;yes;/media/images/21_-_dont_be_angry.png;
-22;Here Be Lions;Belong To You;;adults;en;song;yes;;https://www.youtube.com/embed/hl4HjgPQ5tI
-22;His Mercy is More;Keith & Kristyn Getty, Matt Boswell, Matt Papa;;adults;en;song;yes;;https://www.youtube.com/embed/d-31oJTdh1w
-22;Laura Woodley Osman;Wisdom Song;;adults;en;song;yes;;https://www.youtube.com/embed/tMnIVe4-QUY
-22;Superbook;Jesus in the Wilderness;Buckle up for a high-speed adventure as Superbook takes Chris, Joy and Gizmo to ancient Israel. Witness how Jesus teaches in the Temple as a young boy, then resists Satan’s temptations in the wilderness as a grown man. Discover how the Word of God has power over every circumstance!;kids;en;superbook;yes;;https://www.superbook.org.uk/product/jesus-in-the-wilderness/
-22;Nick Vujicic;Motivational Minute #34 - Fruit That Grows;;any;en;shortmovie;yes;;https://www.youtube.com/embed/y1BXwsh3pGo
-22;Zijn genade is zoveel meer!;John Newton;;adults;nl;blog;yes;;https://www.geloofstoerusting.nl/artikelen/zijn-genade-is-zoveel-meer/
-23;Opwekking 807;God van licht;;kids;nl;song;yes;;https://www.youtube.com/embed/Md1VKIfHnMc
-23;The Kendrick Brothers;Fireproof;;adults;en;movie;yes;;https://www.youtube.com/embed/YK5-5qf9IQs
-23;Logos Bible Software;"""She Is Far More Precious than Jewels"" - Proverbs 31";;adults;en;shortmovie;yes;;https://www.youtube.com/embed/wDOku1ZDqYQ
-23;Nick Vujicic;Motivational Minute #12 - The Vow;;any;en;shortmovie;yes;;https://www.youtube.com/embed/qVg32Baa5vc
-23;Jenske Visser;;;any;any;drawing;yes;/media/images/23_-_honor_mariage.png;
-23;Moving Works;Beloved;Do you struggle in your marriage? Takashi and Naoko did. Their shame and brokenness left their marriage on the brink of total collapse. Then they found true love…not in each other, but in a person that would transform their family completely.;adults;any;testimony;yes;;https://www.youtube.com/embed/cR5EgcEzouc
-23;Ben White;;;any;any;picture;yes;/media/images/23_-_ben-white-unsplash.jpg;
-23;Priscilla Du Preez;;;any;any;picture;yes;/media/images/23_-_priscilla-du-preez-unsplash.jpg;
-23;World Video Bible School (WVBS);The Truth About... Marriage, Divorce and Remarriage;"With more than half of marriages ending in divorce, to say that a study of the subject is needed is an understatement. Most people don't know what God has to say about divorce, and many don't care.
-In this study, Don Blackwell delves into a crucial topic that is affecting the very fabric of our society. If you are considering divorce or you know someone who is, please don't go any further until you watch this video. Be sure that you understand what God has to say on this subject of eternal consequence.";adults;en;sermon;yes;;https://www.youtube.com/embed/sY502EGPyHc
-24;Lauren Daigle;Loyal;;adults;en;song;yes;;https://www.youtube.com/embed/xXKG-ooExGs
-24;Matthew West;Truth Be Told;;adults;en;song;yes;;https://www.youtube.com/embed/Na3bXKig6ok
-24;Superbook;John the Baptist;"At home, Chris has to choose between playing stolen games or deleting them.
-
-Superbook sends Joy, Chris, and Gizmo to a time when John the Baptizer chooses to live truthfully and point others to Jesus.
-
-This experience encourages Chris when he returns to face Sam.";kids;en;superbook;yes;/media/images/superbook_john-the-baptist.png;https://www.superbook.org.uk/product/john-the-baptist/
-24;Central Films;Masks;We all like to make a good impression, but when it comes to God and the church, honesty is the best policy.;adults;en;shortmovie;yes;;https://www.youtube.com/embed/RJRvQIZDmOw
-24;Nick Vujicic;Motivational Minute #2 - Integrity;;any;en;shortmovie;yes;;https://www.youtube.com/embed/CIpqjG4M3c0
-24;Jenske Visser;;;any;any;drawing;yes;/media/images/24_-_keep_your_word.png;
-25;Matthew West;Mended;;adults;en;song;yes;;https://www.youtube.com/embed/-Otg-5p7qug
-25;Selah;Your raise me up;;adults;en;song;yes;;https://www.youtube.com/embed/RQc_pYC3t-k
-25;Superbook;Elisha and the Syrians;Travel back to dangerous times as Superbook takes Joy, Chris and Gizmo to meet the prophet Elisha. Witness how the Syrians try to capture him—and what he does after trapping their army inside an Israelite city! Our heroes discover that mercy can accomplish much more than revenge.;kids;en;superbook;yes;/media/images/superbook_Elisha-and-the-Syrians.jpg;https://www.superbook.org.uk/product/elisha-and-the-syrians/
-26;Trinity;Ik wens jou;;any;nl;song;yes;;https://www.youtube.com/watch?v=iyAcEgKiymU
-26;Christian Verwoerd;Mooie Dromen;;any;nl;song;yes;;https://www.youtube.com/embed/4icsdF-cOSc
-26;A Joy story;Make Joy Happen;A wonderfull story about sharing, caring and community living;kids;en;shortmovie;yes;;https://www.youtube.com/embed/mDlF7ojdkq4
-26;Jenske Visser;;;any;any;drawing;yes;/media/images/26_Wie_Is_Hij.png;
-26;Unknown;Delen;;any;nl;picture;yes;/media/files/63E2F3C4-8BD0-4957-AD30-3DAC4669DADF.jpeg;
-27;Superbook;The Road to Damascus;"When a delinquent teen enters Chris and Joy’s lives, they don’t see any chance of him changing his ways.
-
-However, Superbook takes our heroes on a journey where they encounter the sinister Saul of Tarsus.
-
-Through experiencing Saul’s dramatic life change, the kids return home with a renewed hope that amazing change is always possible with God.";kids;en;superbook;yes;/media/images/superbook_the-road-to-damascus.jpg;https://www.superbook.org.uk/product/the-road-to-damascus/
-27;Harbinger Media Partners;Unconditional;;adults;en;movie;yes;;https://www.youtube.com/embed/TsEEUgyPmaI
-27;Jenske Visser;;;any;any;drawing;yes;/media/images/27_-_love_your_enemies.png;
-28;Micah Tyler;Different;;adults;en;song;yes;;https://www.youtube.com/embed/xUT4trsrBCw
-28;Casting Crowns;Good Good Father;;adults;en;song;yes;;https://www.youtube.com/embed/2gSugruC1jQ
-28;Marcel & Lydia Zimmer;Ik wil meer en meer gaan lijken op Jezus;;kids;nl;song;yes;;https://www.youtube.com/watch?v=N_uR9SVzEWY
-28;Sidewalk Prophets;To live as Christ;;adults;en;song;yes;;https://www.youtube.com/embed/pXL0dTzK5mc
-28;Superbook;David and Saul;Embark on an adventure as Superbook takes Chris, Joy and Gizmo to meet David, the young warrior who leads Israel’s army to victory. Witness how King Saul tries to kill him out of jealousy, and discover why David  will not take revenge— even when he has the perfect opportunity. Our heroes learn that anger and vengeance do not accomplish God’s purposes.;kids;en;superbook;yes;/media/images/superbook_David-and-Saul.jpg;https://www.superbook.org.uk/product/david-and-saul/
-28;De Henkie Show;De roeping van Levi, de tollenaar;In deze video vertelt Matthijs Vlaardingerbroek van de Henkie Show samen zijn poppen het Bijbelverhaal waarin Jezus Levi de tollenaar tegenkomt en hem roept. Levi laat alles achter en volgt Jezus.;kids;nl;henkieshow;yes;;https://www.youtube.com/embed/8ENsdugufBI
-28;Moving Works;Chasing Live;After graduating high school, Robin rejects his Christian upbringing to live life to its fullest. It isn’t until his parents reveal a long-held family secret that Robin discovers the life he has been missing all along.;adults;de;shortmovie;yes;;https://www.youtube.com/embed/io4SC-xz_aQ
-28;Nick Vujicic;Motivational Minute #32 - Practice Makes Perfect;;any;en;shortmovie;yes;;https://www.youtube.com/embed/mvFWoIska9w
-28;Jenske Visser;;;any;any;drawing;yes;/media/images/28_-_be_perfect.png;
-28;thefellowshipsite.org;;;any;any;picture;yes;/media/images/28_-_2_chronicles_16.9_thefellowshipsitepunt-org.jpg;
-29;Crossroads Kids Club;God's Story: Generosity;;adults;en;shortmovie;yes;;https://www.youtube.com/embed/VyXe25LyrcY
-30;Make Some Noise Kids;Gebed;;kids;nl;song;yes;;https://www.youtube.com/embed/t0YMilY5164
-30;Sidewalk Prophets;Impossible;;adults;en;song;yes;;https://www.youtube.com/embed/mUL3dJkNTKI
-30;Opwekking 436;Onze Vader in de hemel;;kids;nl;song;yes;;https://www.youtube.com/embed/9vSUmuyiQDE
-30;Tauren Wells;When We Pray;;adults;en;song;yes;;https://www.youtube.com/embed/9YZZzgJB33E
-30;Superbook;Peter’s Escape;Chris and Gizmo send Joy on a round-the-world Holo-9 Virtual tour to ‘help’ her with her school geography project. As Joy sees scenes of hardship, she is overwhelmed by the state of the human condition. Joy wonders how anyone can help and make a difference. In response, Superbook transports her, Chris and Gizmo back in time to meet Peter, Rhoda, Mary and other followers of Jesus, so that they may witness how the power of prayer can lead to miraculous changes.;kids;en;superbook;yes;/media/images/superbook_Peters-Escape.png;https://www.superbook.org.uk/product/peters-escape/
-30;De Henkie Show;De dochter van Jairus;In deze video vertelt Matthijs Vlaardingerbroek van de Henkie Show samen met zijn poppen het Bijbelverhaal van de dochter van Jairus en de genezing van de bloedvloeiende vrouw.;kids;nl;henkieshow;yes;;https://www.youtube.com/embed/Srzvzz2qlQ8
-30;The Kendrick Brothers;War Room;;adults;en;movie;yes;;https://www.youtube.com/embed/2DbRwcrhiLA
-30;Moving Works;Egypt: Eyes Open;Since January 18, 2011, Egypt has been in a state of civil and political unrest, but in the midst of the violence and uncertainty, God is moving in a BIG way.;adults;en;shortmovie;yes;;https://www.youtube.com/embed/6jZRA_eh6j4
-30;Jenske Visser;;;any;any;drawing;yes;/media/images/30_-_pray_in_faith.png;
-30;Ben White;;;any;any;picture;yes;/media/images/30_-_ben-white-unsplash.jpg;
-31;Hawk Nelson;Drops In the Ocean;;adults;en;song;yes;;https://www.youtube.com/embed/bZH13wFGffg
-31;Matthew West;Grace Wins;;adults;en;song;yes;;https://www.youtube.com/embed/3a1WKcB7umU
-31;Simon Khorolskiy;Jesus, Keep Me near the Cross;;adults;ru;song;yes;;https://www.youtube.com/embed/GB7V4usZhVQ
-31;Selah;Lord I Trust You;;adults;en;song;yes;;https://www.youtube.com/embed/2kgjopAZpbw
-31;Superbook;Jacob and Esau;"In the Quantum yard, during a spirited water fight, Joy accidentally gets Gizmo’s inner workings wet, and he fritzes out.
-
-Chris becomes furious with Joy, saying he’ll never forgive her. Superbook intercedes and whisks the kids back to the days of Jacob and Esau. The two brothers compete over many things, but when Esau gives up his birthright and Jacob tricks his father out of a blessing, they become estranged for many years.
-
-When Jacob finally goes to Esau and his brother finds it in his heart to forgive Jacob, Chris takes the cue and forgives Joy, as well.";kids;en;superbook;yes;/media/images/superbook_jacob-and-esau.jpg;https://www.superbook.org.uk/product/jacob-and-esau/
-31;De Henkie Show;De knecht die niet wilde vergeven;In deze video vertelt Matthijs Vlaardingerbroek van de Henkie Show samen  zijn poppen de gelijkenis van Jezus over de knecht die door de koning alles vergeven wordt, maar niet bereid is om iemand anders te vergeven!;kids;nl;henkieshow;yes;;https://www.youtube.com/embed/pknyId3DX98
-31;Nick Vujicic;Motivational Minute #44 - Forgiveness;;any;en;shortmovie;yes;;https://www.youtube.com/embed/y7ozW9K44nM
-31;Corrie ten Boom;How to Forgive;A powerfull testimony of a woman, who’s been in the concentration camps by the nazis, and still learned to forgive;adults;en;testimony;yes;;https://www.youtube.com/embed/3cfp51vLZb4
-31;Moving Works;Out of the Darkness;At the age of 41, Cory starts having horrific nightmares of extreme abuse. Once he realizes that his dreams are actually repressed memories from his childhood, Cory begins a life-changing journey that will forever transform his relationship with God.;adults;en;testimony;yes;;https://www.youtube.com/embed/-CONfrExV9o
-32;Jenske Visser;;;any;any;drawing;yes;/media/images/32_-_fast_regularly.png;
-32;A & O Productions;This Happens in the Unseen World When We Fast and Pray;;adults;en;sermon;yes;;https://www.youtube.com/embed/cmpRBETOuRI
-32;John Piper;A Hunger for God;"There is an appetite for God. And it can be awakened. I invite you to turn from the dulling effects of food and the dangers of idolatry, and to say with some simple fast: “This much, O God, I want you.”
-
-Our appetites dictate the direction of our lives — whether it be the cravings of our stomachs, the passionate desire for possessions or power, or the longings of our spirits for God. But for the Christian, the hunger for anything besides God can be an arch-enemy. While our hunger for God — and him alone — is the only thing that will bring victory.
-
-Do you have that hunger for him? As John Piper puts it, “If we don’t feel strong desires for the manifestation of the glory of God, it is not because you have drunk deeply and are satisfied. It is because we have nibbled so long at the table of the world. Our soul is stuffed with small things, and there is no room for the great.” If we are full of what the world offers, then perhaps a fast might express, or even increase, our soul's appetite for God.
-
-Between the dangers of self-denial and self-indulgence is this path of pleasant pain called fasting. It is the path John Piper invites you to travel in this book. For when God is the supreme hunger of your heart, he will be supreme in everything. And when you are most satisfied in him, he will be most glorified in you.";adults;en;book;yes;/media/images/32_-_book_hunger_for_God-John-Piper.jpg;https://www.desiringgod.org/books/a-hunger-for-god
-32;John Piper;Honger naar God;"Heel diep in ons binnenste hongeren we naar God. En die honger kunnen we aanwakkeren door een tijdlang geen aandacht aan voedsel te besteden. Vasten dus. Daarmee zeggen we: 'Zozeer verlang ik naar U o Heer'. Onze begeerten bepalen de koers van ons leven - of het nu de begeerte van onze maag is, de begeerte naar bezit en macht, of de begeerte naar God. Maar alleen onze begeerte naar God - en naar Hem alleen - brengt overwinning in ons leven. Kent u deze begeerte naar Hem? 'Als we niet hevig naar de heerlijkheid van God verlangen,' zegt John Piper, 'komt het niet doordat we er genoeg van gedronken hebben. Nee, het komt doordat we zo lang aan de tafel van de wereld hebben zitten knabbelen. Onze ziel zit vol met allerlei onbenulligheden, zodat er nauwelijks plaats is voor God.' Als dat u dwars zit, kan een vasten wellicht iets veranderen aan uw voorkeuren.
-Tussen de gevaren van zelfkwelling en genotzucht loopt het pad van de aangename pijn die we 'vasten' noemen. In dit boek nodigt John Piper ons uit dat pad te bewandelen. Want hoe meer wij naar God hunkeren, hoe meer hij in ons leven verheerlijkt wordt en hoe groter onze vreugde is.";adults;nl;book;yes;/media/images/32_-_book_honger_naar_God-John-Piper.jpg;https://www.bol.com/nl/f/honger-naar-god/36080244/
-33;Selah;More And More Of You;;adults;en;song;yes;;https://www.youtube.com/embed/1bpQqkCF__I
-33;De Henkie Show;De gelijkenis van de schat in de akker;In deze video vertelt Matthijs Vlaardingerbroek van de Henkie Show samen  zijn poppen de gelijkenis van Jezus over de man die een schat in een akker vond en alles verkocht om deze akker te kopen en de schat te vinden. We kijken ook naar de gelijkenis van de parel.;kids;nl;henkieshow;yes;https://www.dehenkieshow.nl/aflevering/de-gelijkenis-van-de-schat-in-de-akker;https://www.youtube.com/embed/kJY6cpwmBr0
-33;Moving Works;The Call - You Are Not Alone;There is an emptiness inside each of us that cannot be filled by life’s pursuits or ignored by its distractions. However, beyond the emptiness there is a voice calling. Do you hear the voice? Will you follow the call?;adults;en;shortmovie;yes;;https://www.youtube.com/embed/2Zmiu3MteHQ
-33;Moving Works;Vapor;"Inspired by the age-old question ""What is your life?"", this short film challenges the promises of the American dream and presents an alternative that offers so much more.";adults;en;shortmovie;yes;;https://www.youtube.com/embed/XppxgYYb7Hk
-33;Jenske Visser;;;any;any;drawing;yes;/media/images/33_-_treasures_in_heaven.png;
-34;Josh Wilson;Borrow;;adults;en;song;yes;;https://www.youtube.com/embed/8N7EA41-yBg
-34;Christian Verwoerd;Hoor jij de vogels nog fluiten;;any;nl;song;yes;;https://www.youtube.com/embed/ngZeLwK9y-c
-34;Simon & Max Khorolskiy;Не грусти, не рыдай;;adults;ru;song;yes;;https://www.youtube.com/embed/l31c9qY4tNI
-34;Superbook;Isaac and Rebekah;Gather your family for an exciting adventure as Superbook takes Chris, Joy and Gizmo to ancient Hebron. There, Abraham tells his servant Eliezer how to find a wife for his son, Isaac. Witness how Eliezer travels to a faraway land and finds the right woman—Rebekah—through obedience and prayer. Our heroes discover that following God’s plan is always best.;kids;en;superbook;yes;/media/images/superbook_Isaac-and-Rebekah.jpg;https://www.superbook.org.uk/product/issac-and-rebekah/
-34;Moving Works;The Mustard Seed;Jesus compared the kingdom of God to one of the smallest seeds on Earth and over 2000 years later, the truth of this teaching can be seen all across the globe.;adults;en;shortmovie;yes;;https://www.youtube.com/embed/EWN299sB5ng
-34;Jenske Visser;;;any;any;drawing;yes;/media/images/34_-_seek_Gods_kingdom.png;
-34;Selah;I look to You;"""I was moved to tears upon hearing this song for the first time. The melody is gorgeous, and the lyrics perfectly describe feelings that we all have experienced -- loss, regret, exhaustion, pain. But in the beautiful chorus, the lyrics also point us to the source of our hope in troubled times : ""... after all my strength is gone, in You I can be strong...... when melodies are gone, in You I hear a song...."". I hope you can hear and sense God's comfort in this beautiful song."" -- Allan";adults;en;testimony;yes;;https://www.youtube.com/embed/gP2IzErAQPs
-34;Kinga Bán;Ik heb kanker, maar geen zorgen over morgen;A powerfull testimony of a nl famous christian singer;adults;nl;testimony;yes;;https://www.youtube.com/embed/OkkKpvaGpAk
-35;oke4kids;Oordeel niet;;kids;nl;song;yes;;https://www.youtube.com/embed/a94jOU9Af28
-35;Jenske Visser;;;any;any;drawing;yes;/media/images/35_-_First_cast_out_the_beam_out_of_thine_own_eye.png;
-35;Allen Parr;Are Christians Allowed to Judge?;;adults;en;sermon;yes;;https://www.youtube.com/embed/In27Ex21b2Y
-36;Ho, Stop!;Elly & Rikkert;;kids;nl;song;yes;;https://www.youtube.com/embed/gQs-Q0uJqcI
-36;Selah;Jesus is the Answer;;adults;en;song;yes;;https://www.youtube.com/embed/nf2IoTDbpPY
-36;Sidewalk Prophets;Prodigal;;adults;en;song;yes;;https://www.youtube.com/embed/LZUCtUOPX7I
-36;Sanctus Real;Run;;adults;en;song;yes;;https://www.youtube.com/embed/n7DcNDjRdRc
-36;Meester Richard;Waar is God?;;kids;nl;song;yes;;https://www.youtube.com/embed/X3PL92wXVOA
-36;Superbook;Jesus Heals the Blind;"When Chris goes to a church’s Christmas pageant, he begins to wonder—is there something special about Jesus that he hasn’t seen clearly before?
-
-Get ready adventure as Superbook takes Chris, Joy and Gizmo to meet Jesus. See the different ways He heals people who are blind—physically and spiritually. Discover the best gift of all time —sent by God to everyone in the world!";kids;en;superbook;yes;/media/images/superbook_Jesus-Heals-the-Blind.png;https://superbookacademy.com/jesus-heals-the-blind/
-36;Moving Works;Proof;As a respected professor, Josef loves science and often mocked ideas that couldn’t be proven with empirical evidence. One day, a book comes the professor’s way that not only confronts his hardened beliefs but changes his hardened heart.;adults;any;shortmovie;yes;;https://www.youtube.com/embed/k6uMDCqmq9A
-36;Jenske Visser;;;any;any;drawing;yes;/media/images/36_-_Seek_and_you_shall_find.png;
-36;www.godskalender.nl;;;any;any;picture;yes;/media/images/36_-_opendoor_Godskalender.jpg;
-37;Lydia Zimmer;kom aan boord;;kids;nl;song;yes;;https://www.youtube.com/embed/bVqPvGQy_UQ
-37;Martin Brand & Elise Mannah;Schuif hier maar aan;;adults;nl;song;yes;;https://www.youtube.com/embed/h2ngdKE1ajw
-37;Superbook;The Prodigal Son;Justin gets in trouble with his father. He hides. Chris begins to wonder if what Justin did can be forgiven. Superbook sends Joy, Chris, and Gizmo to a time when Jesus tells stories. One story shows us that no matter what we do, God will always accept us back into His family with open arms when we say we are sorry.;kids;en;superbook;yes;/media/images/superbook_The-Prodigal-Son.jpg;https://www.superbook.org.uk/product/the-prodigal-son-2/
-37;Strong Foundation Film;Who am I?;Pastor Joe, is a young family man who leads a church in an active city where he reaches out to the poor and destitute in any way he can. One day, a woman named Tasha comes to his church seeking for help. Pastor Joe sits down with her and she shares an intense life story. She shares how she was born, how she was set free from a world of drugs, racism, theft, and human trafficking. Her story becomes increasingly complex as people from her past come in contact with Pastor Joe with their own life struggles of suicide, teen pregnancy, and abortion. As their stories tie together it brings hope, redemption, and salvation to the forefront and gives us a picture of what it means to experience the transformation of God, going from darkness to light, and to continue on the narrow path each and every day;adults;en;movie;yes;;https://www.youtube.com/embed/l4OpWKWMNps
-37;Moving Works;Open the door;We all suffer at the hands of other people. In Junko’s case, she was abused as a child and found herself isolated and in deep sorrow. Then, a gradual feeling of love grew in her heart and opened the door to a life that she never knew existed.;adults;any;shortmovie;yes;;https://www.youtube.com/embed/dLTv5KabJd8
-37;Keith Green;The prodigal son;;adults;en;shortmovie;yes;;https://www.youtube.com/embed/pdeYty9pI7k
-37;Jenske Visser;;;any;any;drawing;yes;/media/images/37_-_knock_and_it_shall_be_opened.png;
-38;The Nelons;Do Unto Others;;adults;en;song;yes;;https://www.youtube.com/embed/tuUuUq9ucdc
-38;De Henkie Show;Jezus wast de voeten van zijn discipelen;In deze video vertelt Matthijs Vlaardingerbroek van de Henkie Show samen zijn poppen het Bijbelverhaal waarin Jezus de voeten van zijn discipelen wast. Dit gebeurt vlak voor het Paasfeest in Jeruzalem.;kids;nl;henkieshow;yes;;https://www.youtube.com/embed/hH5ggH0j1lo
-38;Mochibooks;Do Unto Others As You Would Have Them Do Unto You;;kids;en;shortmovie;yes;;https://www.youtube.com/embed/kLRMuYf0HEY
-39;Rascal Flatts;Bless the broken road;;adults;en;song;yes;;https://www.youtube.com/embed/lZp6pmgbZyU
-39;Superbook;Paul and the Shipwreck;At a disaster relief effort, Joy has to choose between finishing her mission or giving up. Suddenly, Superbook sends Joy, Chris, and Gizmo to a time when Paul chooses to focus on his mission, no matter the circumstances. This encourages Joy when she returns to face her relief project.;kids;en;superbook;yes;/media/images/superbook_Paul-and-the-Shipwreck.jpg;https://www.superbook.org.uk/product/paul-and-the-shipwreck/
-39;Nick Vujicic;Motivational Minute #26 - Never Give Up;;any;en;shortmovie;yes;;https://www.youtube.com/embed/EuHGD8aPtlA
-39;Moving Works;Run the Race - The Faith in Christ that Perseveres;Faith in Christ is a pursuit…a fight…a race. It’s a journey laden with difficulty, but at the finish line awaits an imperishable reward that is given to those who persevere…Christ Himself.;adults;en;shortmovie;yes;;https://www.youtube.com/embed/Nhk_5c6H-yc
-39;Jenske Visser;;;any;any;drawing;yes;/media/images/39_-_strive_to_enter.png;
-40;Superbook;The first Christmas;"Commercial Christmas mayhem is reigning supreme in the Quantum household.
-
-After Chris offhandedly remarks that the family nativity scene is just another decoration like a reindeer or Santa’s elves, Superbook whisks off our heroes on a journey to discover the true meaning of Christmas!";kids;en;superbook;yes;/media/images/superbook_the-first-christmas.jpg;https://www.superbook.org.uk/product/the-first-christmas/
-40;Jenske Visser;;;any;any;drawing;yes;/media/images/40_-_beware_of_false_prophets.png;
-40;Allen Parr;7 NEW AGE Beliefs and How to IMMEDIATELY Recognize Them;How can we tell if someone subscribes to new age beliefs or if they are a Christian? On the surface the two can sound very similar. However, there are some specific things you will want to look out for when you meet someone to tell whether or not they are a born again Christian or part of a new age movement engaging in new age spirituality. This video will provide 7 very common and popular new age beliefs and give you some specific things to listen for when you interact with someone.;adults;en;sermon;yes;;https://www.youtube.com/embed/weGGxMJbYJw
-41;oke4kids;Bouw je leven op de rots;;kids;nl;song;yes;;https://www.youtube.com/embed/rjrZGFg3NG4
-41;Selah;Firm Foundation;;adults;en;song;yes;;https://www.youtube.com/embed/Ph67dhexGoA
-41;Crowder;Red letters;;adults;en;song;yes;;https://www.youtube.com/embed/E1ohrZaZfTI
-41;Keith Green;To obey is better than sacrifice;;adults;en;song;yes;;https://www.youtube.com/embed/TzWyZxlwGKI
-41;Superbook;Peter and Cornelius;Joy and Chris are late for school and get caught by the letter-of-the-law hall monitor. Chris has been late one too many times and receives an after-school detention. Chris begs for mercy but the strict Hall Monitor has no interest in giving Chris special treatment over anyone else. Superbook arrives and much to Chris’ disapproval, Superbook brings the hall monitor with them on their adventure! Superbook brings them back to a time when Peter needed to learn that God doesn’t have favorites;kids;en;superbook;yes;/media/images/superbook_Peter-and-Cornelius.png;https://www.superbook.org.uk/product/peter-and-cornelius/
-41;De Henkie Show;Een wijs man bouwde zijn huis op de rots;In deze video vertelt Matthijs Vlaardingerbroek van de Henkie Show samen  zijn poppen het Bijbelverhaal waarin Jezus de gelijkenis vertelt over twee mannen die hun huis bouwen. De ene man bouwt op het zand en de ander bouwt op de rots.;kids;nl;henkieshow;yes;;https://www.youtube.com/embed/Bysx65XlKek
-41;Moving Works;Follower;Sarah enjoys relating with people, but when an encounter with a Deaf woman challenges her ability to connect, God redefines what it means for her to be a follower.;adults;en;shortmovie;yes;;https://www.youtube.com/embed/jqs5rncwHM0
-41;Jenske Visser;;;any;any;drawing;yes;/media/images/41_-_Listen_to_Him.png;
-42;Elly & Rikkert;Dapper als David;;kids;nl;song;yes;;https://www.youtube.com/embed/5WlevSB6Co0
-42;Kristene DiMarco;Take courage;;adults;en;song;yes;;https://www.youtube.com/embed/xwvkLYJkOkk
-42;Sidewalk Prophets;The words I would say;;adults;en;song;yes;;https://www.youtube.com/embed/8t9u-LOa3OI
-42;Gerald Troost;Wees sterk en moedig;;adults;nl;song;yes;;https://www.youtube.com/embed/gryE_CZtNAg
-42;Make Some Noise Kids;Wij zijn Safe;;kids;nl;song;yes;;https://www.youtube.com/embed/zrpG5BDHlBg
-42;Bethel Worship;You make me brave;;adults;en;song;yes;;https://www.youtube.com/embed/_UglO7SGUWk
-42;Superbook;A Giant Adventure;"Chris Quantum loses the courage to play his guitar in front of a crowd. Superbook whisks the kids off to meet another boy who had to face his own “giant.”
-
-Chris, Joy and Gizmo befriend young David who is taking bread to his brothers on the front line of battle fighting the Philistines.
-
-It’s when David meets the giant Goliath that Chris finds the courage to face his own giants.";kids;en;superbook;yes;/media/images/superbook_a-giant-adventure.jpg;https://www.superbook.org.uk/product/a-giant-adventure/
-42;De Henkie Show;Jezus brengt de storm tot rust;In deze video vertelt Matthijs Vlaardingerbroek van de Henkie Show samen zijn poppen het Bijbelverhaal waarin Jezus de storm tot rust brengt.;kids;nl;henkieshow;yes;;https://www.youtube.com/embed/npzplnRg5vk
-42;Megalim Institute;How did King David conquer Jerusalem?;An impression of how the conquest of Jerusalem could have gone on the basis of 1 Chronicles 11 and 2 Samuel 5;adults;en;shortmovie;yes;;https://www.youtube.com/embed/XXHiXuPw7zM
-42;Jenske Visser;;;any;any;drawing;yes;/media/images/42_-_be_of_good_cheer.png;
-42;Ben White;;;any;any;picture;yes;/media/images/42_-_ben-white-unsplash.jpg;
-43;Josh Wilson;I refuse;;adults;en;song;yes;;https://www.youtube.com/embed/6B1Lv8k5pEc
-43;Kinga Bán;Leef met Volle Teugen;;adults;nl;song;yes;;https://www.youtube.com/embed/y0PJE2k9MvI
-43;Matthew West;The God Who Stays;;adults;en;song;yes;;https://www.youtube.com/embed/QPwd_TQpsHY
-43;Moving Works;Bettie Goes to Jail;At the of age 70, Bettie Kaufmann has a conversation with God. Little does she know that this one interaction will eventually send her to jail.;adults;en;shortmovie;yes;;https://www.youtube.com/embed/-yEP5Y9u3_A
-43;International Justice Mission;IJM: Fighting to End Slavery. For Good.;"Right now, more than 45 million people are enslaved worldwide. Children, women and men are trapped in forced labor or sexual slavery, where violence, deceit and abuse become their everyday. Learn what IJM is doing and how you can join the fight: http://bit.ly/1XuPkGu
-
-International Justice Mission is a global organization that fights slavery and protects the poor from violence in the developing world. Our global team includes hundreds of lawyers, investigators, social workers, community activists and other professionals at work in nearly 20 communities.
-
-Join IJM in the fight to end slavery. Give today: ijm.org/givetoday";adults;en;shortmovie;yes;;https://vimeo.com/194073236
-43;International Justice Mission;IJM: Fighting to End Slavery. For Good.;"Right now, more than 45 million people are enslaved worldwide. Children, women and men are trapped in forced labor or sexual slavery, where violence, deceit and abuse become their everyday. Learn what IJM is doing and how you can join the fight: http://bit.ly/1XuPkGu
-
-International Justice Mission is a global organization that fights slavery and protects the poor from violence in the developing world. Our global team includes hundreds of lawyers, investigators, social workers, community activists and other professionals at work in nearly 20 communities.
-
-Join IJM in the fight to end slavery. Give today: ijm.org/givetoday";adults;en;shortmovie;yes;;https://vimeo.com/194073236
-43;Max7;Jesus heals the man lowered through the roof;Four faithful friends bring a paralyzed man to Jesus. Jesus forgives his sins and proves he has that authority by healing the man's body as well. This brings opposition because no one has the authority to forgive sin except God. Is Jesus a teacher, a prophet, or someone much greater? This video is based on the Bible story with some additional dialog of the friends.;kids;en;shortmovie;yes;;https://www.youtube.com/embed/djegdgPGZOs
-43;Nick Vuijick;Motivational Minute #16: Be a Miracle;;any;en;shortmovie;yes;;https://www.youtube.com/embed/uDog84vuEzQ
-43;Jenske Visser;;;any;any;drawing;yes;/media/images/43_-_be_compassionate.png;
-45;Paul Wilbur and Jim Cowan;For Your Name Is Holy;;adults;en;song;yes;;https://www.youtube.com/embed/xcx2O9WXvn8
-45;Christian Verwoerd;Gelukkig is de man (Psalm 112a);;adults;nl;song;yes;;https://www.youtube.com/embed/a31F_Mi5HAM
-45;Christian Verwoerd;Vol ontzag;;any;nl;song;yes;;https://www.youtube.com/embed/Av18VFpPTao
-45;Laura Woodley Osman;Wisdom Song;;adults;en;song;yes;;https://www.youtube.com/embed/tMnIVe4-QUY
-45;Superbook;Elijah and the Prophets of Baal;Chris is so obsessed with becoming the most powerful “god” in a video game that he neglects his friends and family. Superbook takes Chris, Joy and Gizmo back to ancient Israel. They meet Elijah, a prophet of the Lord, who boldly stands alone to challenge 450 prophets of the false god Baal in an epic showdown. The Lord clearly demonstrates that He is the one true God.;kids;en;superbook;yes;/media/images/superbook_Elijah-and-the-Prophets-of-Baal.jpg;https://www.superbook.org.uk/product/elijah-and-the-prophets-of-baal/
-45;The Bible Project;The Book of Ecclesiastes;In this book we hear the skeptical voice of “the teacher.” He observes that living by the book of Proverbs doesn’t always bring positive results. Sometimes life is hard and defies neat explanations. How do you live with that tension, and still strive for wisdom? Ecclesiastes is the second of the three biblical wisdom books.;adults;en;shortmovie;yes;;https://www.youtube.com/embed/VeUiuSK81-0
-45;Jenske Visser;;;any;any;drawing;yes;/media/images/45_-_fear_Him.png;
-46;Rend Collective;Boldly I Approach;;adults;en;song;yes;;https://www.youtube.com/embed/4QDnVD7gu5Y
-46;Andrew Peterson;Is He Worthy?;;adults;en;song;yes;;https://www.youtube.com/embed/OIahc83Kvp4
-46;Superbook;Nehemiah;awaits as Superbook takes Chris, Joy and Gizmo to meet Nehemiah. Witness his daring plan to rebuild Jerusalem’s ruined walls, even though wicked men mock him—and plot to kill him! Our  heroes discover how Nehemiah finds the courage to overcome every challenge.;kids;en;superbook;yes;/media/images/superbook_nehemiah.jpg;https://www.superbook.org.uk/product/nehemiah/
-46;De Henkie Show;Letters aan de muur;In deze video vertelt Matthijs Vlaardingerbroek van de Henkie Show samen  zijn poppen het Bijbelverhaal van koning Belsazar die een groot feest voor zijn edelen en hun vrouwen en concubines gaf. Tijdens de maaltijd gebruikten zij op bevel van Belsazar de bekers die zijn vader Nebukadnezar II uit de tempel van Jeruzalem had geroofd.;kids;nl;henkieshow;yes;;https://www.youtube.com/embed/xfnVipY7BpU
-46;Pure Flix;The book of Esther;Good battles evil in this timeless story of Biblical heroism. The righteous Jew Mordecai and the despicable Haman square off for control of the young Persian King Xerxes. But Haman's plans include something horrible for Mordecai and his people. It is up to Mordecai's niece Esther to win the affection of the King, unmask Haman's treachery and save the Jewish people. Based upon the Book of Esther, this delightful retelling emphasizes the values of courage, faith and obedience.;adults;en;movie;yes;;https://www.youtube.com/embed/XZ0cTN84Tnw
-46;Pastor Scott Brenner;Stephen his bold testimony;;adults;en;shortmovie;yes;;https://www.youtube.com/embed/xnLGOgykN3A
-46;Moving Works;Not Ashamed;When Nilton Cordeiro was young, he heard about the love and grace of Jesus Christ through an old hymn. This love and grace quickly captured his heart and would change his life forever.;adults;br;testimony;yes;;https://www.youtube.com/embed/Lo-eS3ENooo
-46;Moving Works;The Key;Where were you on March 11, 2011 when the Tohoku earthquake shook Japan? Yuji was at work, and with Tokyo’s power grid shut down, he journeyed on foot across the city to discover a message waiting for him that would change his life forever.;adults;any;testimony;yes;;https://www.youtube.com/embed/_VtOM6C6P8o
-47;Andrew Gudgeon & Heartcry of David;King of Glory;;any;en;song;yes;;https://www.youtube.com/embed/KRkup9opjKA
-47;The Brooklyn Tabernacle Choir;Pleasing;;any;en;song;yes;;https://www.youtube.com/embed/h1c3m8mRb8g
-47;Simon Khorolskiy & Sisters;Океан Божьей Любви;;any;ru;song;yes;;https://www.youtube.com/embed/d1StI5sO7mM
-47;Moving Works;Made of Iron;"At the age of seventy, Dorothea could have long retired and enjoyed a life of rest and recreation, but God has other plans for her, and she is more than determined to follow His lead.
-
-Download and watch more films at: https://movingworks.org";any;de;shortmovie;yes;;https://www.youtube.com/embed/ieap4CvL9kU
-47;Jenske Visser;;;any;any;drawing;yes;/media/images/47_-_serve_Him_only.png;
-48;Sanctus Real;Changed;;adults;en;song;yes;;https://www.youtube.com/embed/Abyx6H77rb4
-48;Hillsong Worship;Christ is enough;;adults;en;song;yes;;https://www.youtube.com/embed/teUxQpnhezY
-48;Lydia Walker;I Have Decided to Follow Jesus;;adults;en;song;yes;;https://www.youtube.com/embed/5OWWqS1jnOw
-48;Superbook;Ruth;"Chris is upset when his mother asks him to give up a fun weekend at the lake to do chores for his eccentric old aunt. That’s when Superbook takes Chris, Joy and Gizmo to ancient Bethlehem, where they meet Ruth.
-
-Witness how this young widow gives up everything to show kindness to her family. You’ll be amazed to see how her faithfulness is rewarded!
-
-Gather your family and get ready for an exciting journey as our heroes discover the importance of loyalty and love. It’s all here for you in Superbook: “Ruth.”";kids;en;superbook;yes;/media/images/superbook_Ruth.jpg;https://www.superbook.org.uk/product/ruth/
-48;Moving Works;Lift up your eyes;What if God asked you to leave everything you know behind? Well, that’s what happens to Marc and what God does with his response radically changes how residents of Sherbrooke, Québec see Jesus.;any;en;shortmovie;yes;;https://www.youtube.com/embed/mDm-IxOi84A
-48;Jenske Visser;;;any;any;drawing;yes;/media/images/48_-_follow_Jesus.png;
-49;Superbook;The Last Supper;"Chris is getting big-headed because his band has been invited to audition for an American Idol-like show called World’s Best Band.
-
-To address this issue, Superbook whisks the kids off to Jerusalem.
-
-Chris learns from Jesus that even though Jesus is famous, He was humble and served others.
-
-During the Last Supper, the gang ultimately returns home, and Chris has a major shift in his attitude towards others.";kids;en;superbook;yes;/media/images/superbook_the-last-supper.jpg;https://www.superbook.org.uk/product/the-last-supper/
-49;Moving Works;Helper of the Fatherless;Samuel loves Jesus and loves children, so God used him in a very big way.;adults;en;shortmovie;yes;;https://www.youtube.com/embed/Clu4POb9IJ8
-49;Moving Works;The Messenger;"Working at the shipyards in Hamburg, Martin was privileged to meet sailors from all around the world. Little did he know these brief engagements would eventually redefine his career and touch thousands of lives.
-
-Download and watch more films at: https://movingworks.org
-
-Learn more about Allianz-Mission here: https://www.allianzmission.de/";any;de;shortmovie;yes;;https://www.youtube.com/embed/gqRTjePYU7Q
-49;Moving Works;The Messenger;"Working at the shipyards in Hamburg, Martin was privileged to meet sailors from all around the world. Little did he know these brief engagements would eventually redefine his career and touch thousands of lives.
-
-Download and watch more films at: https://movingworks.org
-
-Learn more about Allianz-Mission here: https://www.allianzmission.de/";any;de;shortmovie;yes;;https://www.youtube.com/embed/gqRTjePYU7Q
-49;Moving Works;Cloe;For years, Walt and Annie struggled with infertility, but in a single moment they realized that God was writing a beautiful story for them that was over 20 years in the making.;adults;en;testimony;yes;;https://www.youtube.com/embed/uKjh2Rqwmdo
-50;Newsboys;Guilty;;adults;en;song;yes;;https://www.youtube.com/embed/Dq1-lX9U95I
-50;Joshua Aaron;Hoshiana;;adults;he;song;yes;;https://www.youtube.com/embed/BGW62zTwfiw
-50;Rend Collective;I will be undignified;;adults;en;song;yes;;https://www.youtube.com/embed/CkFGG14JJ-c
-50;Superbook;Peter’s Denial;While hanging with the cool kids, Chris chooses to ignore his friendship with the less cool Joy. Superbook takes Joy, Chris, and Gizmo to a time when Peter denies Jesus three times. This experience helps Chris understand the value of true friendship.;kids;en;superbook;yes;/media/images/superbook_Peters-denial.jpg;https://www.superbook.org.uk/product/peters-denial/
-50;De Henkie Show;Daniel legt de droom van koning Nebukadnessar uit;In deze video vertelt Matthijs Vlaardingerbroek van de Henkie Show samen  zijn poppen het Bijbelverhaal waarin Daniel vertelt wat koning Nebukadnessar gedroomd heeft en wat zijn droom betekent.;kids;nl;henkieshow;yes;;https://www.youtube.com/embed/7SoVMzDxc9A
-50;Pure Flix;God’s Not Dead;;adults;en;movie;yes;;https://www.youtube.com/embed/j2KDj7qxnds
-50;Jenske Visser;;;any;any;drawing;yes;/media/images/50_-_Blessed_is_he_who_does_not_offend_Me.png;
-51;Crowder;Come as you are;;adults;en;song;yes;;https://www.youtube.com/embed/r2zhf2mqEMI
-51;Selah;I Got Saved;;adults;en;song;yes;;https://www.youtube.com/embed/Z9UdI0CXbm0
-51;Big Daddy Weave;I Know;;adults;en;song;yes;;https://www.youtube.com/embed/j25JqWgjDF4
-51;Selah;Jesus is King;;adults;en;song;yes;;https://www.youtube.com/embed/wCH6pp_WLMs
-51;Moving Works;Collision;Do you struggle with depression? So did Yumiko. She hated herself and even dreamt of running in front of a train to end her life. But hope came her way in the last place she ever expected.;adults;any;testimony;yes;;https://www.youtube.com/embed/BZ-5afaHOnM
-51;Moving Works;Finding Petra;When Petra loses her mother at a young age, she sets off on a journey to find hope and healing for her loss. This decade-long search eventually leads her to discover that the answer she’s been looking for has been pursuing her all along.;adults;any;testimony;yes;;https://www.youtube.com/embed/GG0mCHhxcOM
-51;SDOK;Omgaan met geloofstwijfel;Hoe ga je om met geloofstwijfel? In zijn maandelijkse videocolumn kijkt SDOK-woordvoerder Richard Groenenboom in de spiegel van vervolgde christenen en vertelt hoe zij omgaan met hun geloofsworstelingen en twijfels.;adults;nl;testimony;yes;;https://vimeo.com/389193396
-51;Broeders in Christus;Een juk dragen;;adults;nl;blog;yes;;https://broedersinchristus.nl/Juk-dragen
-52;Here Be Lions;I Speak Jesus (Lyric Video);;adults;en;song;yes;;https://www.youtube.com/embed/FpGYImM_VeM
-52;Here Be Lions & Darlene Zschech;I Speak Jesus (Music Video);;any;en;song;yes;;https://www.youtube.com/embed/PiaVb8j_nbw
-52;Make Some Noise Kids;Together;;kids;nl;song;yes;;https://www.youtube.com/embed/MkHxGi-4hyY
-52;Hawk Nelson;Words;;adults;en;song;yes;;https://www.youtube.com/embed/anVweXDcxhA
-52;Jenske Visser;;;any;any;drawing;yes;/media/images/52_-_calm_words.png;
-53;Meester Richard;De Heer is mijn Herder;;kids;nl;song;yes;;https://www.youtube.com/watch?v=FTgl7BCa6as
-53;Sidewalk Prophets;Help me find it;;adults;en;song;yes;;https://www.youtube.com/embed/CsjZ94K7UQs
-53;Hillsong Worship;I surrender;;adults;en;song;yes;;https://www.youtube.com/embed/ZFORjUcHkKU
-53;Sanctus Real;Lead me;;adults;en;song;yes;;https://www.youtube.com/embed/yLr6G8Xy5uc
-53;Jeremy Camp;My Desire;;adults;en;song;yes;;https://www.youtube.com/embed/-816LEY-F9U
-53;Superbook;Roar!;"Chris is morally challenged “to do the right thing” when a smaller boy, Tommy, is harassed by Skateboard Park bully, Barry.
-
-Superbook takes the kids on an adventure where they meet Daniel and King Darius in the land of Babylon.
-
-Through this adventure, Chris learns that no matter how difficult the situation, when you stand up for what is right, God will be with you.";kids;en;superbook;yes;/media/images/superbook_roar.jpg;https://www.superbook.org.uk/product/roar/
-53;Jenske Visser;;;any;any;drawing;yes;/media/images/53_-_do_Gods_will.png;
-53;Moving Works;Gone;When Crystal Clapp gave her life to Jesus Christ, everything changed. Her thoughts became His thoughts. Her will became His will. The old was gone and, soon enough, so was she.;adults;en;testimony;yes;;https://www.youtube.com/embed/PPSKEBGmSII
-54;Nick Vujicic;Motivational Minute #20: A Good Citizen;;any;en;shortmovie;yes;;https://www.youtube.com/embed/FxnwXQh61JQ
-55;Matthew West;Hello, My Name Is;;adults;en;song;yes;;https://www.youtube.com/embed/ZuJWQzjfU3o
-55;Superbook;Samuel and the Call of God;Your family will love watching this exciting adventure as Superbook takes Chris, Joy and Gizmo to meet the prophet Samuel. Witness how he answers God’s call as a child, then grows up to become Israel’s leader. Our heroes discover that you’re never too young to be called by God.;kids;en;superbook;yes;/media/images/superbook_Samuel-and-the-Call-of-God.jpg;https://www.superbook.org.uk/product/samuel-and-the-call-of-god/
-55;De Henkie Show;Pinksteren - 5. Wij zijn Gods kinderen;In deze vijfde video van een vijfdelige serie over het christelijke Pinksterfeest legt Matthijs Vlaardingerbroek van de Henkie Show samen zijn poppen uit hoe de Heilige Geest in ons hart fluistert dat wij kinderen van God zijn.;kids;nl;henkieshow;yes;;https://www.youtube.com/embed/PXJqxaFYB50
-55;Moving Works;Adopted;Over the span of a three and a half year wait, Peter and Erin realize that they are adopting for reasons much more personal than once thought. They are adopting, because they were adopted.;adults;en;shortmovie;yes;;https://www.youtube.com/embed/-iaCFZ-RuUw
-55;Moving Works;Like a child;Filmed in six languages across five continents, this short film captures the faith-filled thoughts of children as they contemplate the many attributes of God.;adults;en;shortmovie;yes;;https://www.youtube.com/embed/tje4n_PAl-s
-55;Jenske Visser;;;any;any;drawing;yes;/media/images/55_-_become_as_children.png;
-55;Ben White;;;any;any;picture;yes;/media/images/55_-_ben-white-unsplash.jpg;
-56;Laura Woodley Osman;Blessing Song;;adults;en;song;yes;;https://www.youtube.com/embed/ZSRVDhSMNMk
-56;Matthew West;Unplanned;;adults;en;song;yes;;https://www.youtube.com/embed/ttXoXMBfZ8Q
-56;Superbook;The Birth of John the Baptist;"Joy loses her patience while babysitting energetic little Charlie. That’s when Superbook takes Chris, Joy, Gizmo, and Charlie to meet Zechariah and Elizabeth, an older couple who couldn’t have children. Witness how an angel promises they will have a son who will prepare the way for the Lord. You’ll be amazed to see how nothing is impossible with God!
-
-Gather your family and get ready for an exciting journey as our heroes discover the importance of faithfulness and love. It’s all here for you in Superbook: “The Birth of John the Baptist.”";kids;en;superbook;yes;/media/images/superbook_the-birth-of-john-the-baptist.jpg;https://www.superbook.org.uk/product/the-birth-of-john-the-baptist/
-56;Jenske Visser;;;any;any;drawing;yes;/media/images/56_-_Receive_a_child_in_His_Name.png;
-56;Ben White;;;any;any;picture;yes;/media/images/56_-_ben-white-childs-unsplash.jpg;
-57;Heartcry of David;Dance with me / Glory come down;;adults;en;song;yes;;https://www.youtube.com/embed/TEt6pEYKvbE
-57;Joshua Aaron;Hineh Ma Tov (Psalm 133);;adults;he;song;yes;;https://www.youtube.com/embed/RdmDBA-DTAw
-57;Superbook;The Tower of Babel & The Day of Pentecost;"Get ready for high adventure as Superbook takes our heroes to ancient Babel, where people are building a huge tower for their own glory.
-
-Discover how God stops them—then brings people together for His glory many years later on Pentecost. Our heroes discover that God’s love can bridge all barriers!";kids;en;superbook;yes;/media/images/superbook_the-tower-of-babel.jpg;https://www.superbook.org.uk/product/the-tower-of-babel/
-57;Jenske Visser;;;any;any;drawing;yes;/media/images/57_-_desire_something_in_union.png;
-57;Moving Works;Unity;This two minute short reveals God's desire for unity and how the Evangelical and Orthodox churches in Egypt have united together to exalt Christ as the Head of His Church.;adults;en;testimony;yes;;https://www.youtube.com/embed/xv8SsQIzyDc
-58;Laura Woodley Osman;Listen;;adults;en;song;yes;;https://www.youtube.com/embed/dRpEteOvVxg
-58;The Psalm Project;Met al mijn kracht (psalm 119);;adults;nl;song;yes;;https://www.youtube.com/embed/xy-yqNw-IA0
-58;Keith and Kristyn Getty;Perfect Wisdom of Our God;;adults;en;song;yes;;https://www.youtube.com/embed/hSnzYnOe6kI
-58;De Henkie Show;De gelijkenis van de zaaier;In deze video vertelt Matthijs Vlaardingerbroek van de Henkie Show samen  zijn poppen de gelijkenis van Jezus over de zaaier die het zaad op de weg, tussen het onkruid en in de goede aarde strooide.;kids;nl;henkieshow;yes;;https://www.youtube.com/embed/Ebie2ydLTUg
-58;Moving Works;El Shaddai Sings;This is El Shaddai. She is an Ethiopian orphan who is being raised by her adopted Ethiopian parents to love Jesus and to sing about His Word. This is her act of worship.;adults;en;shortmovie;yes;;https://www.youtube.com/embed/rI2XdMxyBWk
-58;Jenske Visser;;;any;any;drawing;yes;/media/images/58_-_Zalig_Zijn_Zij_Die_Het_Woord_Horen_En_Bewaren.png;
-58;Ron van der Spoel;De Bijbel is het allermooiste geschenk;Ron van der Spoel vertelt over lessen die de Vervolgde Kerk ons kunnen leren.;adults;nl;testimony;yes;;https://www.youtube.com/embed/GwLfsgnI2nI
-58;Ben White;;;any;any;picture;yes;/media/images/58_-_ben-white-unsplash.jpg;
-59;Meester Richard;Hebben Hebben;;kids;nl;song;yes;;https://www.youtube.com/embed/0wTCAruWzU8
-59;Superbook;Gideon;When Joy is called to leadership in a difficult situation, she has to chose between taking the challenge or running scared. Superbook sends Joy, Chris, and Gizmo to a time when Gideon overcomes a difficult battle with the Midianites. This adventure encourages Joy to walk with God and conquer the task at hand.;kids;en;superbook;yes;/media/images/superbook_gideon.jpg;https://www.superbook.org.uk/product/gideon/
-59;Nick Vujicic;Motivational Minute #5 - Greed;;any;en;shortmovie;yes;;https://www.youtube.com/embed/YW70joXUAhE
-59;Jenske Visser;;;any;any;drawing;yes;/media/images/59_-_be_aware_of_covetousness.png;
-59;Priscilla Du Preez;;;any;any;picture;yes;/media/images/59_-_priscilla-du-preez-unsplash.jpg;
-60;Yamma Ensemble;a Jewish prayer with oldest biblical wind instrument, shofar;;adults;he;song;yes;;https://www.youtube.com/embed/Rnkb7M3dKTg
-60;MerceMe;I Can Only Imagine;;adults;en;song;yes;;https://www.youtube.com/embed/ZNDEyxEMNp0
-60;Hillsong;I desire Jesus;;any;en;song;yes;;https://www.youtube.com/embed/rL4_R_aI82k
-60;Opwekking 774;Ik verlang naar Jezus;;any;nl;song;yes;;https://www.youtube.com/embed/WmilZ_xSNGY
-60;Christian Verwoerd;Zoals het was;;adults;nl;song;yes;;https://www.youtube.com/embed/xsKkSohWeIU
-60;Simon Khorolskiy & Friends;Мой в Небе Край Родной;;adults;ru;song;yes;;https://www.youtube.com/embed/on7VPe_SG7s
-60;De Henkie Show;De gelijkenis van het feest;In deze video vertelt Matthijs Vlaardingerbroek van de Henkie Show samen  zijn poppen het Bijbelverhaal waarin Jezus de gelijkenis vertelt over het grote feest. Een belangrijk man die vrienden uitnodigt, maar niemand wilt komen. Uiteindelijk mag iedereen komen!;kids;nl;henkieshow;yes;;https://www.youtube.com/embed/yiKAJiQ-axs
-61;Kinderen voor Kinderen;Hallo Wereld;;kids;nl;song;yes;;https://www.youtube.com/watch?v=sL5Mz-H7_w8
-61;Cory Asbury;Reckless love;;adults;en;song;yes;;https://www.youtube.com/embed/Sc6SSHuZvQE
-61;Lauren Daigle;Rescue;;adults;en;song;yes;;https://www.youtube.com/embed/gYR0xP1j4PY
-61;Superbook;The Prodigal Son;Chris comes to understand through the parable of the prodigal son, that God will always accept us back into His family with open arms when we say we are sorry.;kids;en;superbook;yes;/media/images/superbook_lost_sheep.jpg;https://uk-en.superbook.cbn.com/episode_player?v=4515255877001
-61;Moving Works;Dead Men - Meet Two Criminals Who Love Jesus;"Radek and Jirka are bad men. Living lives plagued by violence, neglect, and self-centeredness, the two men soon find themselves threatened by something much more terrifying than any prison sentence–the inescapable reality of death itself.
-
-Download this film and watch more at: https://movingworks.org";any;cs;shortmovie;yes;;https://www.youtube.com/embed/CXxLIfH3ZUo
-61;Moving Works;Encounter - A Story of Death, Visions, and Jesus;"Suffering a great loss at a young age, David turned his back on the world and found comfort in darkness and isolation. But, there was someone David couldn’t shut out of his life, and one night He came to visit.
-
-Download and watch more films at: https://movingworks.org";adults;de;shortmovie;yes;;https://www.youtube.com/embed/4XUbQ1xcV-E
-61;Jenske Visser;;;any;any;drawing;yes;/media/images/61_-_Find_the_lost_sheep.png;
-62;Joshua Aaron;Gadol Elohai (How Great is our God);;adults;he;song;yes;;https://www.youtube.com/embed/sWSKtoURGAg
-62;oke4kids;Ik ben dankbaar;;kids;nl;song;yes;;https://www.youtube.com/embed/pGyitpE2fWc
-62;The Brooklyn Tabernacle Choir;Psalm 150;;adults;en;song;yes;;https://www.youtube.com/embed/LICDBT9LF_Y
-62;Opwekking 733;Tienduizend redenen;;any;nl;song;yes;;https://www.youtube.com/watch?v=KeVjB-SXqwU
-62;De Henkie Show;Jezus geneest tien melaatsen;In deze video vertelt Matthijs Vlaardingerbroek van de Henkie Show samen  zijn poppen het Bijbelverhaal waarin Jezus tien melaatsen geneest en alleen de Samaritaan komt hem bedanken.;kids;nl;henkieshow;yes;;https://www.youtube.com/embed/xTQ04WfvYwQ
-62;ABC van het geloof;Wij doen: Dankbaarheid;;kids;nl;shortmovie;yes;;https://www.youtube.com/embed/2qQ-vTXR9zg
-62;Jenske Visser;;;any;any;drawing;yes;/media/images/62_-_give_thanks.png;
-63;Keith & Kristyn Getty;"Marriage, Family & Ministry""";;adults;en;testimony;yes;;https://www.youtube.com/embed/91YW1dJDoiQ
-64;Matthew West;Broken Things;;adults;en;song;yes;;https://www.youtube.com/embed/fwKuz8a8Jnk
-64;Superbook;Naaman and the Servant Girl;"Joy thinks she’s too important to serve at a food drive. That’s when Superbook takes Chris, Joy and Gizmo to meet Naaman, a Syrian commander with leprosy. Witness how a lowly servant girl offers him hope—and how he must lay aside his pride to be healed. Gather your family and get ready for an exciting journey as our heroes discover the importance of humbleness.
-
-It’s all here for you in Superbook: “Naaman and the Servant Girl.”";kids;en;superbook;yes;/media/images/superbook_Naaman-and-the-Servant-Girl.jpg;https://www.superbook.org.uk/product/naaman-and-the-servant-girl/
-64;Nick Vujicic;Motivational Minute #4 - Humility;;any;en;shortmovie;yes;;https://www.youtube.com/embed/1OjYNsfut4Y
-64;Moving Works;The Day Kyle Died - Near Death Experience;Kyle has it all figured out. He’s got the girls, the grades, and lives at the best party house on campus. But one fateful day, Kyle’s heart stops beating and he suddenly comes face to face with a dark truth that he’s ignored his entire life.;adults;en;shortmovie;yes;;https://www.youtube.com/embed/BKOe-41b_RA
-64;Jenske Visser;;;any;any;drawing;yes;/media/images/64_-_He_That_Humbleth.png;
-64;Olympic;Derek Redmond's Emotional Olympic Story - Injury Mid-Race | Barcelona 1992 Olympics;The unforgettable story of Great Britain's 400m runner Derek Redmond, whose hamstring snapped during his event but was determined to finish the race at the Barcelona 1992 Olympic Games.;any;en;testimony;yes;;https://www.youtube.com/embed/t2G8KVzTwfw
-64;Rembrandt van Rijn;King Uzzia affected with leprosy;;adults;any;picture;yes;/media/images/64_-_Rembrandt-van-Rijn-Koning-Uzzia-getroffen-door-met-melaatsheid.jpg;
-65;Christian Verwoerd;Als de berg Sion;;adults;nl;song;yes;;https://www.youtube.com/embed/k6BSN3RvyNA
-65;MerceMe;Even if;;adults;en;song;yes;;https://www.youtube.com/embed/B6fA35Ved-Y
-65;Make Some Noise Kids;God heeft alle macht;;kids;nl;song;yes;;https://www.youtube.com/embed/Ec_VS7Voxsc
-65;Selah;Lord I Trust You;;adults;en;song;yes;;https://www.youtube.com/embed/fAaYufpl6qc
-65;Sanctus Real;Promises;;adults;en;song;yes;;https://www.youtube.com/embed/sPO3meEuU24
-65;Superbook;Joseph and Pharaoh’s Dream;"Superbook transports Chris back to ancient Egypt.
-
-Chris, Gizmo, and Joy travel with Joseph through several trials and triumphs. In all of their journeys, Joseph continues to trust in God.
-
-After witnessing God take Joseph from the pit to the palace, Chris realizes the value of trusting in God’s plans.";kids;en;superbook;yes;/media/images/superbook_joseph.png;https://www.superbook.org.uk/product/joseph-and-pharaohs-dream/
-65;De Henkie Show;De gelijkenis van de farizeeër en de tollenaar;In deze video vertelt Matthijs Vlaardingerbroek van de Henkie Show samen  zijn poppen de gelijkenis van Jezus over de tollenaar en de farizeeër die allebei in de tempel gaan bidden, maar God luistert maar naar een van hen!;kids;nl;henkieshow;yes;;https://www.youtube.com/embed/JEYmtZ2ga_k
-65;De Henkie Show;Jezus geneest de knecht van de Romeinse hoofdman;In deze video vertelt Matthijs Vlaardingerbroek van de Henkie Show samen met Carla Vis en zijn poppen het Bijbelverhaal waarin Jezus op afstand de knecht van de Romeinse hoofdman geneest.;kids;nl;henkieshow;yes;;https://www.youtube.com/embed/8b3vuAdb7VA
-65;BijbelSpreuken;Esther leert ons sterk en moedig te zijn in het geloof;;any;nl;shortmovie;yes;;https://www.youtube.com/embed/3eYxOMhl_Ro
-65;Bible Project;Job;Watch our overview video on the book of Job, which breaks down the literary design of the book and its flow of thought. Job explores the difficult question of God's relationship to human suffering and invites us to trust God's wisdom and character.;adults;en;shortmovie;yes;;https://www.youtube.com/embed/xQwnH8th_fs
-65;Nick Vujicic;Motivational Minute #42 - Faith;;any;en;shortmovie;yes;;https://www.youtube.com/embed/sEP9tynp_s4
-65;Jenske Visser;;;any;any;drawing;yes;/media/images/65_-_have_faith.png;
-65;Moving Works;Giving up Graham;Lore and Michael started their family with great hope for the future, but when their son’s life begins to spiral downward, they come face to face with what it truly means to trust in God.;adults;en;testimony;yes;;https://www.youtube.com/embed/yvyD86siifs
-65;Charles R. Swindoll;Trust God first;;adults;en;sermon;yes;;https://www.youtube.com/embed/FrNamnkxzkA
-66;Oke4kids;Heer ik wil u aanbidden;;kids;nl;song;yes;;https://www.youtube.com/embed/uVhx_NXf-6M
-66;Casting Crowns;Here’s my heart;;adults;en;song;yes;;https://www.youtube.com/embed/qkSBmRAVXNc
-66;Avalon the Group;Keeper of my heart;;adults;en;song;yes;;https://www.youtube.com/embed/RDAEkmKxPow
-66;oke4kids;Mijn God is zo g-o-e-d;;kids;nl;song;yes;;https://www.youtube.com/embed/bG2DqD9GquU
-66;Simon Khorolskiy;Oh, the Deep Love of Jesus;;adults;en;song;yes;;https://www.youtube.com/embed/KLTu1xv2-Us
-66;Oke4kids;U alleen wil ik aanbidden;;kids;nl;song;yes;;https://www.youtube.com/embed/_qe2KOD6RDI
-66;De Henkie Show;Jezus wordt gezalfd door Maria;In deze video vertelt Matthijs Vlaardingerbroek van de Henkie Show samen met zijn poppen het Bijbelverhaal waarin Jezus in Bethanie door Maria gezalfd wordt. Ze giet dure nardusolie over zijn voeten en droogt ze met haar haren. Dit is vlak voor de intocht in Jeruzalem.;kids;nl;henkieshow;yes;;https://www.youtube.com/embed/BuINkotllOU
-66;David de Vos;Jezus wil jouw huiseigenaar worden;;kids;nl;shortmovie;yes;;https://www.youtube.com/embed/L1JBFYoSfQk
-66;Bible Project;Soul;"We explore the Hebrew word ""nephesh"" that often gets translated as ""soul."" The English word usually refers to a non-material essence of a human that survives after death, but nephesh means something different. It is referring to humans as living, breathing, physical beings, or just to life itself. Prepare to be surprised at the biblical meaning of this fascinating word.";adults;en;shortmovie;yes;;https://www.youtube.com/embed/g_igCcWAMAM
-66;Jenske Visser;;;any;any;drawing;yes;/media/images/66_-_love_the_Lord.png;
-66;Moving Works;I am alive;We all have unfulfilled dreams. For Ritsuko, it was finding fame, love, and acceptance. However, when this dream disappeared, a glimmer of hope arose that not only quenched her feelings of despair, but provided more love and acceptance than she could ever imagine.;adults;any;testimony;yes;;https://www.youtube.com/embed/oXunKuTqzUQ
-66;John Piper;Love Jesus More Than You Love Anything;Do you truly love Jesus? If you did, how would you know? The Bible helps us navigate and even command our own emotions. In twelve minutes, John Piper asks four questions about what it means to love Jesus, and leads us, through the words of Jesus himself, to make Jesus our greatest Treasure.;adults;en;sermon;yes;;https://www.youtube.com/embed/n9QP-cqwyAw
-67;Avalon the Group;Testify to Love;;adults;en;song;yes;;https://www.youtube.com/embed/nwQhsL98qkg
-67;Selah;This is me;;any;en;song;yes;;https://www.youtube.com/embed/0BYPZ2NDDd4
-67;Rhonda Vincent;You Don't Love God If You Don't Love Your Neighbor;;adults;en;song;yes;;https://www.youtube.com/embed/epArSqlMQ-E
-67;Superbook;Love Your Enemies;Superbook takes Chris, Joy and Gizmo to see how Jesus is arrested, yet heals a wounded guard, and forgives those who kill him. Then Stephen forgives the people who stone him to death. Discover how mercy overpowers hatred and revenge!;kids;en;superbook;yes;/media/images/superbook_love-your-enemies.jpg;https://uk-en.superbook.cbn.com/episode_player?v=6226664836001
-67;Moving Works;Loving Noah - Homeless But Not Forgotten;Noah is homeless. Dwight and his family are his neighbors. Their friendship will challenge you to “love your neighbor as yourself”.;adults;en;shortmovie;yes;;https://www.youtube.com/embed/R-aWeh1z_dc
-67;Nick Vuijick;Motivational Minute #47 - Love in Action;;any;en;shortmovie;yes;;https://www.youtube.com/embed/tEE6Bdo13-g
-67;"Word Study: Agape - ""Love""";The Bible Project;The word “love” is one of the sloppiest words in our language, as it primarily refers to a feeling that happens to a person. In the New Testament, “love” refers to a way of treating people that was defined by Jesus himself: seeking the well-being of others regardless of their response.;adults;en;shortmovie;yes;;https://www.youtube.com/embed/slyevQ1LW7A
-67;Jenske Visser;;;any;any;drawing;yes;/media/images/67_-_Love_your_neighbor_as_yourself.png;
-67;Moving Works;Love on another;Are you looking for joy in life? As a gifted performer, singing brought Atsushi joy. It also brought him to one of the most unlikely places: a Gospel Choir practice. It wasn’t long before the lyrics he sang opened his eyes to a joy greater than what music alone could provide.;adults;any;testimony;yes;;https://www.youtube.com/embed/52JDsNgIycs
-68;Joshua Aaron;He's Coming Again;;any;en;song;yes;;https://www.youtube.com/embed/pX9bllb9kJ0
-68;Superbook;Revelation: The Final Battle!;"After Chris accidentally burns down his family’s home, he is sure that there is no forgiveness for something this big!
-
-Superbook then takes Chris, Joy and Gizmo to witness the end of days.
-
-Through this experience, he discovers the greatness of God’s forgiveness and restoration.";kids;en;superbook;yes;/media/images/superbook_the-final-battle.jpg;https://www.superbook.org.uk/product/revelation/
-68;Jenske Visser;;;any;any;drawing;yes;/media/images/68_-_watch_for_the_coming_of_Jesus.png;
-68;Allen Parr;How to Get Ready for Jesus' Return | The Parable of the Talents;;adults;en;sermon;yes;;https://www.youtube.com/embed/U1qx3IrwClI
-69;Opwekking kids;In de circustent;;kids;nl;song;yes;;https://www.youtube.com/embed/2JTNFlSAPfY
-69;Casting Crowns;Thrive;;adults;en;song;yes;;https://www.youtube.com/embed/qQ71RWJhS_M
-69;Nick Vuijick;Motivational Minute #37 - Being Number 1;;any;en;shortmovie;yes;;https://www.youtube.com/embed/YRhC6YWzbmE
-69;Max7;Parable of the Talents;;kids;any;shortmovie;yes;;https://www.youtube.com/embed/bbPKhYBaWRg
-69;Preston Smiles;The Parable of the Talents broken down - Spiritual perspective;This is a video about how to find your purpose using the parable of the talents from the Bible.;adults;en;shortmovie;yes;;https://www.youtube.com/embed/-yRSl38bV3E
-69;Jenske Visser;;;any;any;drawing;yes;/media/images/69_-_Use_your_talents_to_honour_the_Father.png;
-69;The Collingsworth Family;How great thou art;;adults;en;testimony;yes;;https://www.youtube.com/embed/4rUBqB25g3I
-69;Allen Parr;Spiritual Gifts - Part 5 | A Step-by-Step Strategy for Discovering YOUR Gift!;;adults;en;sermon;yes;;https://www.youtube.com/embed/wQ6HTp3dm08
-70;Joshua Aaron;David Danced;;adults;en;song;yes;;https://www.youtube.com/embed/d5WRNQVgAoo
-70;Opwekking Kids 16;God heeft een plan met je leven;;kids;nl;song;yes;;https://www.youtube.com/embed/Q6ItIhP0IZc
-70;Chris Tomlin;I Lift My Hands;;adults;en;song;yes;;https://www.youtube.com/embed/c24En0r-lXg
-70;Chris Tomlin;Our God;;adults;en;song;yes;;https://www.youtube.com/embed/01Yj7H-eSjM
-70;Superbook;Let My People Go!;"When Chris and the others talk about their favorite Superbook adventures, they have a hard time deciding which adventure was the best.
-
-Suddenly, Superbook appears to whisk them away on the adventure of a lifetime. They experience first hand Moses leading the Exodus from Egypt!";kids;en;superbook;yes;/media/images/superbook_let-my-people-go.jpg;https://www.superbook.org.uk/product/let-my-people-go/
-70;De Henkie Show;Daniel in de leeuwenkuil;"In deze video vertelt Matthijs Vlaardingerbroek van de Henkie Show samen  zijn poppen het Bijbelverhaal van Daniel in de leeuwenkuil. 
-
-Koning Darius was zeer gesteld op Daniël, wat de jaloezie van hoogwaardigheidsbekleders opwekte. Zij lieten de koning een wet schrijven waarin het aanbidden van een god, behalve de koning, met de dood in de leeuwenkuil bestraft werd. Zij wisten dat Daniël dat verbod zou overtreden en meenden zich op die manier van Daniël te kunnen ontdoen. Toen Daniël inderdaad betrapt werd op het aanbidden van zijn God, ontbrak het de koning aan de wettelijke mogelijkheid om de wet ongedaan te maken of gratie te verlenen. Daniël werd dus in de leeuwenkuil geworpen, maar zijn God zorgde ervoor dat de leeuwen hem geen kwaad deden. 
-
-Deze video is onderdeel van een vijfdaagse online vakantiebijbelweek over Daniel die God vertrouwt. Op de Henkie Show: www.dehenkieshow.nl vind je alle werkvormen en knutsels die je hierbij nodig hebt.";kids;nl;henkieshow;yes;;https://www.youtube.com/embed/Jn9Jq-D-vDE
-70;De Henkie Show;Pinksteren - 1. Wie is de Heilige Geest?;In deze eerste video van een vijfdelige serie over het christelijke Pinksterfeest legt Matthijs Vlaardingerbroek van de Henkie Show samen zijn poppen uit wie de Heilige Geest is en wat Hij doet.;kids;nl;henkieshow;yes;;https://www.youtube.com/embed/iASPgMUX25A
-70;Jenske Visser;;;any;any;drawing;yes;/media/images/70_-_trust_in_the_Spirit.png;
-71;Sidewalk Prophets;Come to the table;;adults;en;song;yes;;https://www.youtube.com/embed/DXXxLwxfo0U
-71;Make Some Noise Kids;Jesus is Alive;;kids;nl;song;yes;;https://www.youtube.com/embed/RokE3m3S6eo
-71;Make Some Noise Kids;Laatste Avondmaal;;kids;nl;song;yes;;https://www.youtube.com/embed/7__AntVk3Kk
-71;Selah;O the blood;;adults;en;song;yes;;https://www.youtube.com/embed/90b2nXE_b3o
-71;Joshua Aaron;Oh the blood;;adults;he;song;yes;;https://www.youtube.com/embed/q8hrOhHnxxY
-71;Big Daddy Weave;Redeemed;;adults;en;song;yes;;https://www.youtube.com/embed/VzGAYNKDyIU
-71;Joshua Aaron;New Covenant;;adults;en;shortmovie;yes;;https://www.youtube.com/embed/QhHGzTCouQA
-71;John Piper;Why and How We Celebrate the Lord's Supper;;adults;en;sermon;yes;;https://www.youtube.com/embed/ynxgbU8hwDk
-72;Make Some Noise Kids;Allerbeste Vriend ever;;kids;nl;song;yes;;https://www.youtube.com/embed/QizwjezaBC4
-72;Elise Mannah;Compliment;;kids;nl;song;yes;;https://www.youtube.com/embed/IofpdmMOMic
-72;Opwekking 702;Er is kracht voor wie hopen op de Heer;;adults;nl;song;yes;;https://www.youtube.com/embed/_Tu8ChzjuTo
-72;De Henkie Show;Hou vol - Gert-Jan en Hanneke Scherff;;kids;nl;song;yes;;https://www.youtube.com/embed/HGr_GDp-PIE
-72;Hannah Kerr;Warrior;;adults;en;song;yes;;https://www.youtube.com/embed/yQpKSpgrwQE
-72;De Henkie Show;Jezus en de verlamde man door het dak;"In deze video vertelt Matthijs Vlaardingerbroek van de Henkie Show samen zijn poppen het Bijbelverhaal waarin vier vrienden een gat in het dak maken om een verlamde man bij Jezus te brengen. Jezus zegt: ""Je zonden zijn vergeven."" Hierna zegt hij: ""Sta op en wandel."" De verlamde man gaat huppelend naar huis.";kids;nl;henkieshow;yes;;https://www.youtube.com/embed/NIafMy1kbvo
-72;Nick Vujicic;Best Motivational Video;;any;en;shortmovie;yes;;https://www.youtube.com/embed/Aj1GAQDCPiY
-72;Doorbrekers;Ijzersterk;Zoals men ijzer scherpt met ijzer, zo scherpt een mens zijn medemens;any;nl;shortmovie;yes;;https://www.youtube.com/embed/v_yvuDepgW8
-72;Jenske Visser;;;any;any;drawing;yes;/media/images/72_Apart_Gezet.png;
-72;Ben White;;;any;any;picture;yes;/media/images/72_-_ben-white-unsplash.jpg;
-73;Lauren Daigle;First;;adults;en;song;yes;;https://www.youtube.com/embed/RbWQV3OiRqA
-73;Sanctus Real;Unstoppable God;;adults;en;song;yes;;https://www.youtube.com/embed/CGUKwWPpoG4
-73;Superbook;Philip;“Chris is impressed by his father’s new invention. Chris covets the device and wants to use its power to impress his friends and earn lots of money. Superbook whisks the kids away to Samaria. There they watch Philip, Peter and John teach a magician and his followers about the true power of the Holy Spirit. Later, they find Philip in the desert and witness the baptism of the Ethiopian Eunuch. Upon returning home, Chris is a changed person. He has been awed by the power of the Holy Spirit and begins his path towards baptism.”;kids;en;superbook;yes;/media/images/superbook_philip.png;https://uk-en.superbook.cbn.com/episode_player?v=6144430305001
-73;Steve Thomason;The Vine and the Branches;This is a picture of Jesus' metaphor of the Vine in John 15. In this image we see the perichoretic power (the power of indwelling) that is the heart of the Gospel.;any;en;shortmovie;yes;;https://www.youtube.com/embed/UeYp6L-LXSA
-73;Jenske Visser;;;any;any;drawing;yes;/media/images/73_-_abide_in_Him.png;
-73;John Piper;What Does It Mean to ‘Abide in Christ’?;;adults;en;blog;yes;;https://www.desiringgod.org/interviews/what-does-it-mean-to-abide-in-christ
-73;Forest Wychopen;Abide in Christ;;adults;en;book;yes;/media/images/73_-_book-abide-in-me.jpg;
-74;Simon Khorolskiy;Choose Life;;adults;ru;song;yes;;https://www.youtube.com/embed/XFM6BxUp2i0
-74;Opwekking Kids;God is een Kunstenaar;;kids;nl;song;yes;;https://www.youtube.com/watch?v=ACUSK0FOirk
-74;Casting Crowns;Great are you Lord;;adults;en;song;yes;;https://www.youtube.com/embed/FaP8fKAR2Og
-74;Christian Verwoerd;Koning in eeuwigheid;;any;nl;song;yes;;https://www.youtube.com/embed/BvQRakNJclQ
-74;Joshua Aaron;Salvation is Your Name;;adults;en;song;yes;;https://www.youtube.com/embed/W1DclNmrKc8
-74;DoorBrekers Worship;YHWH;;any;nl;song;yes;;https://www.youtube.com/embed/07VRFsoOS5E
-74;The Kendrick Brothers;Facing The Giants;;adults;en;movie;yes;;https://www.youtube.com/embed/ucMh_yldxs0
-74;Moving Works;Preeminent;"pre·em·i·nent | adj. Superior to or notable above all others; outstanding. (Based on Colossians 1: 15-23)";adults;en;shortmovie;yes;;https://www.youtube.com/embed/VIxrGB6YIUQ
-74;Jenske Visser;;;any;any;drawing;yes;/media/images/74_-_Glorify_God.png;
-74;Christopher Duffley;Open the Eyes of My Heart;;any;en;testimony;yes;;https://www.youtube.com/embed/NjYeUN2zWqI
-74;Priscilla Du Preez;;;any;any;picture;yes;/media/images/74_-_priscilla-du-preez-unsplash.jpg;
-74;Matt Boswell;Theology & Doxology in Congregational Worship;;adults;en;sermon;yes;;https://www.youtube.com/embed/ILRpj9h_DBA
-75;Opwekking 769;Bouw Uw koninkrijk;;adults;nl;song;yes;;https://www.youtube.com/embed/k9OrZfUW9pI
-75;Rend Collective;Build Your Kingdom Here;;adults;en;song;yes;;https://www.youtube.com/embed/sbdJXKqVgtg
-75;Opwekking 767;Familie;;any;nl;song;yes;;https://www.youtube.com/embed/Pcj5uL02l7E
-75;Opwekking 767;Familie;;any;nl;song;yes;;https://www.youtube.com/watch?v=Pcj5uL02l7E
-75;Keith Green;The Lord is My Shepherd;;adults;en;song;yes;;https://www.youtube.com/embed/ckcwCKUiGvg
-75;De Henkie Show;Petrus zegt drie keer dat hij van Jezus houdt;"In deze video vertelt Matthijs Vlaardingerbroek van de Henkie Show samen zijn poppen het Bijbelverhaal waarin Jezus Petrus op zoekt op de oever van het meer van Galilea en hem drie keer vraagt: ""Petrus, houd je van mij?""";kids;nl;henkieshow;yes;;https://www.youtube.com/embed/Xur2peE6tJ4
-75;Justin Farris & Ringling College;Holy Sheep;A story about a shepherd, trying to make his way to church. But he is repeatedly stopped from getting there by his sheep that want to follow him. It is a story of learning to accept challenges and adapt to what they produce.;kids;any;shortmovie;yes;;https://www.youtube.com/embed/tLae0OzoF_w
-75;Jenske Visser;;;any;any;drawing;yes;/media/images/75_-_feed_my_sheep.png;
-76;Barry & Batya Segal;Ma Navu (How Beautiful);;adults;he;song;yes;;https://www.youtube.com/embed/sWrZyBsNcQY
-76;Big Daddy Weave;This Is What We Live For;;adults;en;song;yes;;https://www.youtube.com/embed/pxce-adAEkk
-76;Galilee;Dit is discipelschap;Deze video is gemaakt om de inspiratie van het doel van de kerk te benadrukken. We zijn opgedragen om discipelen te maken, deze video laat zien hoe eenvoudig deze opdracht kan zijn. Het laat ook zien hoe we soms kan worden afgeleid en overweldigd door dingen die niet nodig zijn voor discipelschap.;any;nl;shortmovie;yes;;https://www.youtube.com/embed/7KLcplzmQfI
-76;Max7;The Great Commission;This animation tells the story of Jesus' final words before his ascension into heaven. and gives a compelling summary of his ministry life. What Jesus did and said was surprising...  He commissions his disciples to make disciples of all the nations. Are you ready to d what Jesus said to do?;kids;en;shortmovie;yes;;https://www.youtube.com/embed/ZkGUBvoVcJs
-76;Kelly and Niki Tshibaka;This is discipleship;"Our video is designed to inspire epiphanies about the purpose of church. We are commissioned to make disciples; this video shows how discipleship can be simple. It also shows how we sometimes can be distracted and overwhelmed by things that aren't necessary for discipleship.";any;en;shortmovie;yes;;https://www.youtube.com/embed/aQbmaKuT0Oo
-76;Disciple Making Movements;What are disciple making movements?;"Disciple and discipleship are ""hot"" words today.  Despite the volume around these concepts the reality is that little of it resemble the ""multiplicative"" nature of Jesus' early disciples and the impact they had on the world.  There is hope in find our way back.
-
-DMM is an acronym for a street level executable disciple making strategy that fosters disciples making disciples.  DMM has a built in self replicating DNA that catalyzes viral movements.";adults;en;shortmovie;yes;;https://www.youtube.com/embed/pJq1N4PiH28
-76;Jenske Visser;;;any;any;drawing;yes;/media/images/76_teaching_them.png;
-76;Moving Works;Josiah;Josiah grew up in the Amazon completely convinced that he was luckiest kid on Earth, but when tragedy struck at the age of 13, God revealed to him a much greater identity.;adults;en;testimony;yes;;https://www.youtube.com/embed/H_lb2bsUePY
-76;M.R. Doeve;Terug naar de Bron;"Terug naar de bron neemt je mee op een ontdekkingsreis naar de Joodse Jezus en een Joodse visie op de leer van het nieuwe verbond.
-Steeds meer christenen raken geïnteresseerd in de Messiaanse theologie. Voortdurend komt men tot de ontdekking dat het bestuderen van de Bijbel vanuit een Joodse cultureel kader tot verrassende 'nieuwe' opvattingen kan leiden;opvattingen die ogenschijnlijke tegenstrijdigheden in de Bijbel en de christelijke theologie op een goede manier kunnen oplossen en uitleggen.
-
-Eeuwenlang heeft het 'tweedelingsdenken' de theologievorming van het christendom beïnvloed en het is tijd dat we ons van dit denken vrijmaken. In Terug naar de bron word je uitgedaagd om stil te staan bij traditionele interpretaties en leerstellingen, deze kritisch te beoordelen, te evalueren en andere meer scherpere, interpretaties - op basis van Schriftbewijsvoering en een lezing vanuit een Joods interpretatiekader - te overdenken. Binnen het kader van deze zoektocht staat het offerwerk van Jezus en Zijn gebrachte bevrijding van de zonden centraal; in alle studie is Hij onze houvast.";adults;nl;book;yes;/media/images/76_-_terug-naar-de-bron.jpeg;https://www.olivetreestudies.com/terugnaardebron
-77;Micah Tyler;Even Then;;adults;en;song;yes;;https://www.youtube.com/embed/7PBysTjztCU
-77;Simon Khorolskiy;God be with You till We Meet Again;;adults;ru;song;yes;;https://www.youtube.com/embed/ZGWOKT7Hfvs
-77;Marcel Zimmer;Ik ben;;kids;nl;song;yes;;https://www.youtube.com/embed/PLXTjlTFGnQ
-77;Christian Verwoerd;Ik kan niet zonder U;;any;nl;song;yes;;https://www.youtube.com/embed/1gxRV8hqzrI
-77;Joshua Aaron;Immanuel;;adults;en;song;yes;;https://www.youtube.com/embed/Dl5iPXltMH4
-77;Selah;Jesus Will Still Be There;;adults;en;song;yes;;https://www.youtube.com/embed/AtHI2Wfgb20
-77;Casting Crowns;Just be held;;adults;en;song;yes;;https://www.youtube.com/embed/tIZitK6_IMQ
-77;Tori Kelly;Never Alone;;adults;en;song;yes;;https://www.youtube.com/embed/srGIp4LO-XM
-77;Make Some Noise Kids;Nooit Alleen;;kids;nl;song;yes;;https://www.youtube.com/embed/oxyvpeKBSqY
-77;Sons of Korah;Psalm 91;;adults;en;song;yes;;https://www.youtube.com/embed/iUZhTMZF_1I
-77;Superbook;Rescued!;"Superbook takes our heroes to witness miracles as Jonah is cast overboard; Shadrach, Meshach and Abednego are tossed into a fiery furnace; and Daniel is thrown to the lions. The children learn that God can rescue His people in surprising ways!";kids;en;superbook;yes;/media/images/superbook_rescued.jpg;https://uk-en.superbook.cbn.com/episode_player?v=6174096672001
-77;De Henkie Show;De hemelvaart van Jezus;In deze video vertelt Matthijs Vlaardingerbroek van de Henkie Show samen  zijn poppen het Bijbelverhaal waarin Jezus naar de hemel gaat en zijn vrienden moeten wachten op de komst van de Heilige Geest.;kids;nl;henkieshow;yes;;https://www.youtube.com/embed/hFrCh3H4nrs
-77;Jenske Visser;;;any;any;drawing;yes;/media/images/77_-_Always_keep_in_mind_that_Jesus_is_with_us.png;
-77;Moving Works;Blessed;Nate & Ruth Reutter were only moments away from having their first child while serving as missionaries along the Amazon River in Brazil. Then everything changed...most dramatically their faith in Christ and His living Word.;adults;en;testimony;yes;;https://www.youtube.com/embed/DYY8cLSIagg
+Onderzoek de dingen die u in deze film tegenkomt, breng ze in gebed, en attendeer ook anderen hierop! Geve God dat dit velen mag reinigen van onbewuste of bewuste afgoderij.",adults,nl,sermon,yes,,https://www.youtube.com/embed/h2oTIK5Nou4
+6,Robin Mark,Days of Elijah,,adults,en,song,yes,,https://www.youtube.com/embed/ca9LnzJnpjQ
+6,Kari Jobe,Heal Our Land,,adults,en,song,yes,,https://www.youtube.com/embed/DyzbpBR1KOI
+6,Jenske Visser,,,any,any,drawing,yes,/media/images/6_-_pray_for_laborers.png,
+6,Voice of the Martyrs,Hoe de Noord-Koreaanse Sang Chul God leert kennen,,adults,nl,testimony,yes,,https://www.youtube.com/embed/uzUywmuPIUk
+6,Voice of the Martyrs,Sang-chul: North Korea,,adults,en,testimony,yes,,https://www.youtube.com/embed/oGqEgxkF7I8
+6,Ben White,,,any,any,picture,yes,/media/images/6_-_ben-white-unsplash.jpg,
+7,Jenske Visser,,,any,any,drawing,yes,/media/images/7_-_Take_A_Day_Off.png,
+7,119 Ministries Nederland,Hebreeën 4 - In Zijn rust nu of later?,Er wordt vaak gezegd dat we nu al in de rust zijn van onze Messias. Er is een doctrine ter ondersteuning van de theorie dat we niet meer letterlijk hoeven te rusten op de Sabbat. Weet je waar de onderbouwing van deze doctrine gevonden kan worden? Heb je deze doctrine ooit getoetst? Je zult verbaasd zijn als je leert wanneer we daadwerkelijk die rust binnengaan.,adults,nl,sermon,yes,,https://www.youtube.com/embed/ZYRRHPeV4Dw
+7,119 Ministries,The Sabbath Day,We've all been told that the Sabbath is now on Sunday. But how many of us have truly tested that? Have we truly examined the basis of this belief? Or have we just blindly accepted what we have been taught over the years based on the interpretations of man's views of the scriptures that have been passed down through the generations? We at 119 Ministries present this examination of the scriptures regarding the one day that was given as a sign and covenant for those who choose to follow our Heavenly Father.,adults,en,sermon,yes,,https://www.youtube.com/embed/YP2fw1Y3QVo
+8,Casting Crowns,Nobody,,adults,en,song,yes,,https://www.youtube.com/embed/1yBzIt_z8oY
+8,Zach Williams,Rescue story,,adults,en,song,yes,,https://www.youtube.com/embed/9Yr48Berkqc
+8,Rend Collective,Rescuer,,adults,en,song,yes,,https://www.youtube.com/embed/sAg7rn7fH3Q
+8,De Henkie Show,Pinksteren - 3. Iedereen moet het horen,In deze derde video van een vijfdelige serie over het christelijke Pinksterfeest legt Matthijs Vlaardingerbroek van de Henkie Show samen zijn poppen uit hoe de Heilige Geest de gelovigen moed en kracht geeft om iedereen het goede nieuws te gaan vertellen.,kids,nl,henkieshow,yes,,https://www.youtube.com/embed/VxwPt6WFuWE
+8,The Bible Project,Acts Ch. 21-28,"In the final video in our Acts series, we trace Paul’s final journey to Jerusalem and then into a Roman prison. But paradoxically, Paul’s suffering leads him into the heart of the Roman empire where he gets to announce God’s Kingdom over the nations.",adults,en,shortmovie,yes,,https://www.youtube.com/embed/FJsiwOB0Pvg
+8,What's in the Bible?,Acts of the Apostles: Paul's Journey,,kids,en,shortmovie,yes,,https://www.youtube.com/embed/Hy4K1pP408Y
+8,Jenske Visser,,,any,any,drawing,yes,/media/images/8_-_preach_the_gospel.png,
+8,Moving Works,Disciples - From Witchcraft to Jesus in Rio de Janeiro,"Anderson and Robson came to know the love and grace of Jesus in the midst of poverty, abuse, and sin. Now transformed, they’ve become beacons of that same love and grace in one of the most notorious favelas in Rio de Janeiro, The City of God.",adults,br,testimony,yes,,https://www.youtube.com/embed/WhV41z61yrM
+8,Nick Vujicic,God's Miraculous Plan | Life Without Limbs,"""Why God, was I born this way?""  That's the question Nick Vujicic wondered after being born without limbs.  Nick discovered God's miraculous plan for his life as a worldwide evangelist sharing the message of redemption through Jesus Christ.  Watch and discover how you can be a part of Nick's goal to preach to every single soul on the planet: 7 billion people!",adults,en,testimony,yes,,https://www.youtube.com/embed/SYuVx2LU5QM
+8,Moving Works,Then God Changed Everything,"In 2001, Gary and Peggy Ifft lived in Bloomington, IL. They had normal jobs, a normal home, a normal life. Then God called them out of the normal and into His mission.",adults,en,testimony,yes,,https://www.youtube.com/embed/WbPuoUlYHCs
+8,GP,,,any,any,picture,yes,/media/images/8_-_feets_of_messangers_rom10-15.jpg,
+9,David de Haan,Broken pots,,adults,en,song,yes,,https://www.youtube.com/embed/m53sThbtqqo
+9,Sanctus Real,Confidence,,adults,en,song,yes,,https://www.youtube.com/embed/DuZPOVFcFJ4
+9,Selah,"Yet Not I, But Through Christ In Me",,adults,en,song,yes,,https://www.youtube.com/embed/rNXd0KQaYXg
+9,Selah,You are my hiding place,,adults,en,song,yes,,https://www.youtube.com/embed/uUx2WcC9JKo
+9,Elly en Rikkert,Zet je voet maar op het water,,kids,nl,song,yes,,https://www.youtube.com/embed/curSKP3VIJk
+9,De Henkie Show,Jezus wandelt op het water,In deze video vertelt Matthijs Vlaardingerbroek van de Henkie Show samen met Carla Vis en zijn poppen het Bijbelverhaal over hoe Jezus op het water wandelt.,kids,nl,henkieshow,yes,,https://www.youtube.com/embed/F_Z11s0ZfSU
+9,Nick Vujicic,Motivational Minute #30 - Broken Pieces,,any,en,shortmovie,yes,,https://www.youtube.com/embed/-BFC9NhIjGE
+9,Jenske Visser,,,any,any,drawing,yes,/media/images/9_-_Blessed_are_the_poor_in_spirit.png,
+10,Alisa Turner,My Prayer for You,,adults,en,song,yes,,https://www.youtube.com/embed/hj_0pvIGkks
+10,Lionsgate,I Still Believe,This movie is about the true life story of Christian music mega star Jeremy Camp. Jeremy’s remarkable journey of love and loss proves there is always hope in the midst of tragedy and that faith tested is the only faith worth sharing.,adults,en,movie,yes,,https://www.youtube.com/embed/YnxHyBbYwQQ
+10,Jenske Visser,,,any,any,drawing,yes,/media/images/10_-_Blessed_are_those_who_mourn.png,
+10,Moving Works,Darcy - A Trisomy 18 Story of Faith and Hope,"Jason and Tracy were ecstatic to find out that they were expecting, but when the couple is told that their daughter is “incompatible with life”, they begin a journey that will forever change how they view God’s love.",adults,en,testimony,yes,,https://www.youtube.com/embed/sz9mNtpZFMM
