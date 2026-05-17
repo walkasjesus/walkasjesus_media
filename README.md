@@ -1,6 +1,22 @@
 # walkasjesus_media
 Repository for the [Walk as Jesus Framework](https://github.com/walkasjesus/walkasjesus_framework) where all the resources (movies, songs, blogs, sermons, testimonies, etc) in all languages are stored in a CSV. This CSV can be imported/exported with the [Walk as Jesus Framework](https://github.com/walkasjesus/walkasjesus_framework) and the [Walk as Jesus Server](https://github.com/walkasjesus/walkasjesus_server)
 
+## Files
+
+- **media.csv** — Contains all media resources (videos, songs, sermons, blogs, testimonies, etc.) in all supported languages.
+
+## Usage
+
+Import media resources into the database:
+```bash
+python manage.py import_media
+```
+
+Export media resources from the database:
+```bash
+python manage.py export_media_resources
+```
+
 # Related projects and repositories
 The following projects are related to this repository.
 
